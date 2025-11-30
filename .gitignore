@@ -209,3 +209,6 @@ __marimo__/
 
 jointmolecularmodel/
 LRRK2/
+
+# Data backup files
+data/*_old.zip
