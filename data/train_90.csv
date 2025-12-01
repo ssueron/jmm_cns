@@ -265,7 +265,7 @@ Oc1ccc(C=NNc2ccc3ccccc3n2)c(O)c1,unique_smiles_CHEMBL_no_shared
 CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,unique_smiles_B3DB_no_shared
 COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 CC1(Oc2cc3c(-c4cc(N5CCS(=O)(=O)CC5)ncn4)n[nH]c3cc2F)CC1,unique_smiles_CHEMBL_no_shared
-Cc1cc(-c2ccccn2)cc(C)c1C=Cc1cncc(-c2nn[nH]n2)c1.Cl,unique_smiles_CHEMBL_no_shared
+Cc1cc(-c2ccccn2)cc(C)c1C=Cc1cncc(-c2nn[nH]n2)c1,unique_smiles_CHEMBL_no_shared
 CC12CCC3C4CCC(=O)C=C4CCC3C1CCC2O,unique_smiles_B3DB_no_shared
 CCC(=O)OC1C(C)OC(OC2C(C)C(=O)OC(C)C(C)C(OC(=O)CC)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3O)C2C)CC1OC,unique_smiles_B3DB_no_shared
 CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)C(=O)C1=O,unique_smiles_B3DB_no_shared
@@ -350,7 +350,7 @@ Cc1cnc(C)c(N2CCN(c3cc(-c4n[nH]c5cc(F)c(OC6(C)CC6)cc45)ncn3)CC2)n1,unique_smiles_
 CCCCCC(O)CCC1C(O)CC2Cc3c(cccc3OCC(=O)O)CC21,unique_smiles_B3DB_no_shared
 CCC(=O)N1CCN(C(=O)OC2C3=C(SCCS3)C(=O)N2c2ccc3ccc(Cl)nc3n2)CC1,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)c3ccc(-c4ccc(S(=O)(=O)N(CCO)CCO)cc4)[nH]c3=O)c3ccc(O)cc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
-Cl.c1ccc(Oc2ccc(Nc3ncc(-c4ccccc4)o3)cc2)cc1,unique_smiles_CHEMBL_no_shared
+c1ccc(Oc2ccc(Nc3ncc(-c4ccccc4)o3)cc2)cc1,unique_smiles_CHEMBL_no_shared
 Cn1c(NCC(N)Cc2ccccc2)nc(-c2ccncc2)c(-c2ccc3ccccc3c2)c1=O,unique_smiles_CHEMBL_no_shared
 CCOc1nc(Nc2ccc(C(=O)N3CCN(C)CC3)cc2Cl)nc2[nH]ccc12,unique_smiles_CHEMBL_no_shared
 CS(=O)(=O)c1ccc(-c2ccc3c(NC45CC6CC(CC(C6)C4)C5)c(C(N)=O)nnc3c2)cc1,unique_smiles_CHEMBL_no_shared
@@ -365,7 +365,7 @@ Clc1ccc(C2C3CCC(C3)C23CCC(N2CCOCC2)=N3)cc1,unique_smiles_B3DB_no_shared
 O=C1C(=O)N(Cc2ccccc2)c2ccccc21,unique_smiles_CHEMBL_no_shared
 Cc1ccc(SCCC(=O)NC(C)c2ccc(N3CCCC(C)C3)cc2)cc1,unique_smiles_B3DB_no_shared
 Cc1ccc2c(c1)C(N1CCN(C)CC1)=Nc1ccccc1S2,unique_smiles_B3DB_no_shared
-CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12.O=C(O)CC(O)(CC(=O)O)C(=O)O,unique_smiles_CHEMBL_no_shared
+CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,unique_smiles_CHEMBL_no_shared
 N#Cc1ccc2c(c1)CCCC2Nc1ccc2[nH]nc(-c3ccnc(N4CCOCC4)c3)c2c1,unique_smiles_CHEMBL_no_shared
 COc1ccccc1CNC1CCCNC1c1ccccc1,unique_smiles_B3DB_no_shared
 O=C(c1ccc(NCc2ccccc2)c(Cl)c1)N1CCC(N2CCCCC2)CC1,unique_smiles_CHEMBL_no_shared
@@ -428,7 +428,7 @@ CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN
 NC(=O)c1cc[n+](CC2=C(C(=O)O)N3C(=O)C(NC(=O)Cc4cccs4)C3SC2)cc1,unique_smiles_B3DB_no_shared
 c1ccc2c(c1)OCCC2Nc1ccc2[nH]nc(-c3ccncc3)c2c1,unique_smiles_CHEMBL_no_shared
 CCn1cc(Cl)c2cnc(Nc3cn(C4CCCN(C(=O)C5CC5)CC4)nc3Cl)nc21,unique_smiles_CHEMBL_no_shared
-Cl.Nc1nc(-c2ccc3c(c2)C(=Cc2cc(Br)c(O)c(Br)c2)C(=O)N3)cs1,unique_smiles_CHEMBL_no_shared
+Nc1nc(-c2ccc3c(c2)C(=Cc2cc(Br)c(O)c(Br)c2)C(=O)N3)cs1,unique_smiles_CHEMBL_no_shared
 Cc1nnc(Sc2sc(-c3cc[nH]n3)c3c2C(=O)CC(C)(C)C3)s1,unique_smiles_CHEMBL_no_shared
 CC(Oc1ccc(Br)cc1C(=O)Nc1cccnc1)c1ccccc1,unique_smiles_CHEMBL_no_shared
 COc1cccc(C2(O)CCCCC2CN(C)C)c1,unique_smiles_B3DB_no_shared
@@ -824,9 +824,9 @@ CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,unique_smiles_B3DB_no_
 COc1cc(C2c3cc4c(cc3C(OC3OC5COC(c6cccs6)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,unique_smiles_B3DB_no_shared
 CC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 Cc1[nH]ccc2c1[nH]c1cc(=O)ccc12,unique_smiles_B3DB_no_shared
-COC(=O)Nc1nc2cc(Oc3cccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)c3)ccc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2cc(Oc3cccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)c3)ccc2[nH]1,unique_smiles_CHEMBL_no_shared
 Nc1ncnc2occ(-c3ccc(NC(=O)Nc4cc(C(F)(F)F)cc(C(F)(F)F)c4)cc3)c12,unique_smiles_CHEMBL_no_shared
-CN1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(N(C)c4ccnc(Nc5ccc(CS(C)(=O)=O)cc5)n4)cc3)cc2)CC1.Cl,unique_smiles_CHEMBL_no_shared
+CN1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(N(C)c4ccnc(Nc5ccc(CS(C)(=O)=O)cc5)n4)cc3)cc2)CC1,unique_smiles_CHEMBL_no_shared
 CC12COC(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,unique_smiles_B3DB_no_shared
 CN(C)CCn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 Cc1n[nH]c2cncc(NC3CCCCC3)c12,unique_smiles_CHEMBL_no_shared
@@ -1570,7 +1570,7 @@ FC(F)(F)c1cnc(Nc2cnn(CC3(CN4CCOCC4)CC3)c2Cl)nc1C1CC1,unique_smiles_CHEMBL_no_sha
 CC1=Nc2ccccc2CC(c2ccccc2)N1C,unique_smiles_B3DB_no_shared
 CC(C)CCNCC1COc2ccccc2O1,unique_smiles_B3DB_no_shared
 CC(=O)OCC(=O)C12N=C(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,unique_smiles_B3DB_no_shared
-CN(C)CCOc1ccc(-c2cc(-c3ccc4c(c3)CCC4=NO)c(-c3ccncc3)o2)cc1.Cl,unique_smiles_CHEMBL_no_shared
+CN(C)CCOc1ccc(-c2cc(-c3ccc4c(c3)CCC4=NO)c(-c3ccncc3)o2)cc1,unique_smiles_CHEMBL_no_shared
 O=C1Nc2ccccc2C1=C1CCc2cc(O)ccc21,unique_smiles_CHEMBL_no_shared
 N#CCCN1C(=O)C(O)N=C(c2ccccc2F)c2cc(Cl)ccc21,unique_smiles_B3DB_no_shared
 CC1(C)OC2CC3C4CC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)COC(=O)c2cc3ccccc3o2)O1,unique_smiles_B3DB_no_shared
@@ -1582,7 +1582,7 @@ CCNc1nc(Nc2cc(C34CC3COC4=O)nn2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 OC(Cn1ccnc1)c1ccc(CCc2ccccc2)cc1,unique_smiles_B3DB_no_shared
 C=CCc1ccccc1OCC(O)CNC(C)C,unique_smiles_B3DB_no_shared
 O=S(=O)(Nc1ccc2c(c1)C(=NO)c1ccccc1-2)c1cccc(Br)c1,unique_smiles_CHEMBL_no_shared
-COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(C(=O)O)c4)cc3)ccc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(C(=O)O)c4)cc3)ccc2[nH]1,unique_smiles_CHEMBL_no_shared
 N#Cc1cccc(-c2c[nH]c3ncnc(Nc4cn[nH]c4)c23)c1,unique_smiles_CHEMBL_no_shared
 CCOc1nc(Nc2ccc(C(=O)N3CCN(C)CC3)cc2OC(F)F)nc2[nH]ccc12,unique_smiles_CHEMBL_no_shared
 CC(=O)Nc1ccc(OC(=O)c2ccccc2O)cc1,unique_smiles_B3DB_no_shared
@@ -1596,7 +1596,7 @@ COc1cc2ncnc(Nc3cccc(NS(=O)(=O)CC(C)C)c3)c2cc1OC,unique_smiles_CHEMBL_no_shared
 O=C1Nc2ccc(Cl)cc2C1=Cc1ccc(O)cc1,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 Nc1ncc(-c2cccc(CN3CCOCC3)c2)cc1-c1nnc(C2CC2)o1,unique_smiles_CHEMBL_no_shared
-COC(=O)Nc1nc2ccc(Sc3ccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)cc3)cc2[nH]1.O=S(=O)(O)O,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2ccc(Sc3ccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)cc3)cc2[nH]1,unique_smiles_CHEMBL_no_shared
 N#Cc1cccc(-c2c[nH]c3ncnc(N4CC5(COC5)C4)c23)c1,unique_smiles_CHEMBL_no_shared
 CN(C)C1C(O)=C(C(N)=O)C(=O)C2(O)C(O)=C3C(=O)c4c(O)cccc4C(O)C3CC12,unique_smiles_B3DB_no_shared
 CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,unique_smiles_B3DB_no_shared
@@ -1775,7 +1775,7 @@ Clc1ccc2c(c1)C1CCNCC1c1ccccc1O2,unique_smiles_B3DB_no_shared
 CCCC1OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,unique_smiles_B3DB_no_shared
 O=C(Cc1ccc(Cl)c(Cl)c1)N1CCN(CCO)CC1CN1CCC(O)C1,unique_smiles_B3DB_no_shared
-O=C(O)C(F)(F)F.[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6cccc(F)c6)c(Cl)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
+[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6cccc(F)c6)c(Cl)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
 CC1(C)CN2CCNc3ccn4ncc(c4n3)-c3cc(ccc3F)OC(CN1)C2,unique_smiles_CHEMBL_no_shared
 Cc1ccc(NC(=O)C2(C(=O)Nc3ccc(Nc4ncc(F)c(-c5cc(F)c6nc(C)n(C(C)C)c6c5)n4)cc3)CC2)cc1,unique_smiles_CHEMBL_no_shared
 CCCC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
@@ -1936,7 +1936,7 @@ CCc1nn(C)cc1Nc1ncc(F)c(OCC2CCC(NC(C)=O)CC2)n1,unique_smiles_CHEMBL_no_shared
 Cc1cc(C#N)cnc1C(=O)Nc1cc(F)c2[nH]nc(-c3ccoc3)c2c1,unique_smiles_CHEMBL_no_shared
 CNCCCN1c2ccccc2Sc2cccc(Cl)c21,unique_smiles_B3DB_no_shared
 Cc1ccc(C(=O)NCC2CN=C(c3ccc(F)cc3)c3ccc(C)cc3N2C)cc1,unique_smiles_B3DB_no_shared
-COC(=O)Nc1nc2ccc(S(=O)(=O)c3ccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)cc3)cc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2ccc(S(=O)(=O)c3ccc(NC(=O)Nc4cc(C(F)(F)F)ccc4F)cc3)cc2[nH]1,unique_smiles_CHEMBL_no_shared
 CN1CCC2(C)CC(Cc3ccc(O)cc32)C1,unique_smiles_B3DB_no_shared
 CN1Cc2c(-c3noc(C(C)(O)O)n3)ncn2-c2cccc(Cl)c2C1=O,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cnn(C(C)COC(F)F)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
@@ -2129,7 +2129,7 @@ CC(CC#N)N(C)CC(=O)N(C)c1ccc(Cl)cc1C(=O)c1ccccc1F,unique_smiles_B3DB_no_shared
 CC(C)(C)NCC(O)c1ccc(O)c(NC(N)=O)c1,unique_smiles_B3DB_no_shared
 CC1(Cc2ccc(C#N)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(C(=O)NC3(c4nc(C5CCC5)no4)CC3)n21,unique_smiles_CHEMBL_no_shared
 O=C(Nc1cnccn1)Nc1ccnc2c(F)cc(F)cc12,unique_smiles_CHEMBL_no_shared
-Cl.Cl.O=c1[nH]ccc2c(S(=O)(=O)N3CCCNCC3)cccc12,unique_smiles_CHEMBL_no_shared
+O=c1[nH]ccc2c(S(=O)(=O)N3CCCNCC3)cccc12,unique_smiles_CHEMBL_no_shared
 CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(O)C3CC12,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2ccc(-c3cnnn3C)cc2OC)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2cc(F)c(C(=O)N(C)CCOC)cc2OC)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
@@ -2208,7 +2208,7 @@ CC12C=CC(=O)C=C1CCC1C3CC4Cc5ccccc5CC4(C(=O)CO)C3(C)CC(O)C12F,unique_smiles_B3DB_
 CC(Cc1ccccc1)NCCC1c2ccccc2Sc2ccccc21,unique_smiles_B3DB_no_shared
 Cn1nc(-c2cccc(F)c2)n(C)c1=S,unique_smiles_B3DB_no_shared
 NS(=O)(=O)c1ccc(-c2ccc3c(NC(=O)C4CC4)n[nH]c3c2)cc1,unique_smiles_CHEMBL_no_shared
-CNCNc1cccc(-c2csc(N)n2)c1.N#CN.NCN,unique_smiles_B3DB_no_shared
+CNCNc1cccc(-c2csc(N)n2)c1,unique_smiles_B3DB_no_shared
 Nc1c(-c2ccc(NC(=O)Nc3cccc(C(F)(F)F)c3)cc2)ccc2nccnc12,unique_smiles_CHEMBL_no_shared
 ClC(Cl)=C(Cl)Cl,unique_smiles_B3DB_no_shared
 CC1CN(c2ncnc3[nH]cc(-c4cccc(F)c4)c23)CCO1,unique_smiles_CHEMBL_no_shared
@@ -2341,7 +2341,7 @@ COc1cc2c(cc1CNC1CCCNC1c1ccccc1)N(S(C)(=O)=O)C(C)C2,unique_smiles_B3DB_no_shared
 CCC1(O)CCN2CCc3ccc(C)cc3C2C1,unique_smiles_B3DB_no_shared
 COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 CS(=O)(=O)c1ccc(C2=C(c3ccccc3)C(=O)OC2)cc1,unique_smiles_B3DB_no_shared
-CNO.Cc1oc(C(C)(C)N(C(C)(C)N)C(C)(C)N)c(C)c1C,unique_smiles_B3DB_no_shared
+Cc1oc(C(C)(C)N(C(C)(C)N)C(C)(C)N)c(C)c1C,unique_smiles_B3DB_no_shared
 Fc1ccc(-c2ncn(C3CCNCC3)c2-c2ccnc(Oc3cccc(C(F)(F)F)c3)n2)cc1,unique_smiles_CHEMBL_no_shared
 COCC(=O)OC1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2C1C(C)C,unique_smiles_B3DB_no_shared
 CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1[N+]1(C)CCCCC1,unique_smiles_B3DB_no_shared
@@ -2421,7 +2421,7 @@ NC(=O)OCC1C(NC(=O)C(=NOCC(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,unique_smiles_B3DB_n
 O=C(Nc1nc2ccc(F)cc2s1)c1ccc(Cl)cc1,unique_smiles_CHEMBL_no_shared
 CC(CN1CCOCC1)C(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1,unique_smiles_B3DB_no_shared
 CC(C)NC1C2CCC(CC2)C1(O)c1ccc(Cl)c(Cl)c1,unique_smiles_B3DB_no_shared
-Cl.Oc1cccc(-c2nc(-c3ccccc3)[nH]c2-c2ccncc2)c1,unique_smiles_CHEMBL_no_shared
+Oc1cccc(-c2nc(-c3ccccc3)[nH]c2-c2ccncc2)c1,unique_smiles_CHEMBL_no_shared
 O=C1Nc2ccc(I)cc2C1=Cc1cc(Br)c(O)c(Br)c1,unique_smiles_CHEMBL_no_shared
 CCC1C(=O)OCC1Cc1cncn1C,unique_smiles_B3DB_no_shared
 Cc1c(Nc2ncc(C(F)(F)F)c(C3CC3)n2)cnn1C(CF)CF,unique_smiles_CHEMBL_no_shared
@@ -2637,7 +2637,7 @@ OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,unique_smiles_B3DB_no_sha
 Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,unique_smiles_B3DB_no_shared
 COC12CCC3(CC1C(C)(C)O)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,unique_smiles_B3DB_no_shared
 CC(=O)OCC1=COC(OC(=O)CC(C)(C)OC(C)=O)C2C1=CC(OC(=O)CC(C)C)C21CO1,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1nc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(C(F)(F)F)c5)cc4)c3c2)cs1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1nc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(C(F)(F)F)c5)cc4)c3c2)cs1,unique_smiles_CHEMBL_no_shared
 CC1COCC1n1c(C#N)cc2cnc(Nc3cn(C(C)C(F)F)nc3OC3COC3)nc21,unique_smiles_CHEMBL_no_shared
 Cc1n[nH]c2ncc(Nc3ccc(CN4CCN(C)CC4)cc3)cc12,unique_smiles_CHEMBL_no_shared
 CCCCCCOc1nsnc1C1=CCCN(C)C1,unique_smiles_B3DB_no_shared
@@ -2712,7 +2712,7 @@ OC(C1=NCCN1)(c1ccc(Cl)cc1)c1ccccn1,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2ccc(CC(=O)N3CCOCC3)cc2OC)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 COCn1nc(-c2ccc(OC)cc2)nc1-c1cccc(CN(C)C)c1,unique_smiles_B3DB_no_shared
 CCCC1(CC)C(=O)NC(=O)NC1=O,unique_smiles_B3DB_no_shared
-COc1cc2nc(NC3CC3)nc(NC3CCN(C(C)C)CC3)c2cc1OC.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+COc1cc2nc(NC3CC3)nc(NC3CCN(C(C)C)CC3)c2cc1OC,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2ccc(C(=O)N3CCN4CCCCC4C3)cc2OC)ncc1Cl,unique_smiles_CHEMBL_no_shared
 O=C(Nc1cccnc1)c1cc(Br)ccc1OCc1ccc(F)cc1,unique_smiles_CHEMBL_no_shared
 Cc1ccc2c(c1-c1ccc3nc(NC(=O)C4CC4F)cn3c1)CC(=O)N2,unique_smiles_CHEMBL_no_shared
@@ -2732,7 +2732,7 @@ CN1CCC(Nc2cncc(-c3cnc4[nH]cc(F)c4c3)n2)CC1,unique_smiles_CHEMBL_no_shared
 CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCC2(CCCO2)CC1N1CCCC1,unique_smiles_B3DB_no_shared
 O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1I,unique_smiles_B3DB_no_shared
 COc1cc(NS(C)(=O)=O)ccc1Nc1ncc2c(n1)N(C)c1ccccc1C(=O)N2C,unique_smiles_CHEMBL_no_shared
-Cl.Fc1ccc(-c2nc3n(c2-c2ccncc2)CCS3)cc1,unique_smiles_CHEMBL_no_shared
+Fc1ccc(-c2nc3n(c2-c2ccncc2)CCS3)cc1,unique_smiles_CHEMBL_no_shared
 Nc1cc(Nc2cc(Cl)c3n(c2=O)C2(CCCC2)NC3=O)ncn1,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2ccc(-c3nnnn3C)cc2OC)ncc1Cl,unique_smiles_CHEMBL_no_shared
 COC(C)c1c(Nc2ccc(C(N(C)C(=O)C3CCS(=O)(=O)CC3)C(F)(F)F)cc2)cnc2cc(Cl)nn12,unique_smiles_CHEMBL_no_shared
@@ -2766,7 +2766,7 @@ COc1ccc2c3c([nH]c2c1)C1CC2C(CC(OC(=O)c4cc(OC)c(OC)c(OC)c4)C(OC)C2OC(C)=O)CN1CC3,
 CC1CCCN1c1c(C#N)c2c(N)ncnc2n1C,unique_smiles_CHEMBL_no_shared
 CC(C)[N+]1(C)C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2cnn(C3CC(CC#N)C3)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
-Cl.c1ccc(-c2nc3n(c2-c2ccc4c(c2)OCO4)CCC3)nc1,unique_smiles_CHEMBL_no_shared
+c1ccc(-c2nc3n(c2-c2ccc4c(c2)OCO4)CCC3)nc1,unique_smiles_CHEMBL_no_shared
 CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,unique_smiles_B3DB_no_shared
 FC(F)(F)c1cccc(Sc2ccc3nnc(-c4sccc4Br)n3n2)c1,unique_smiles_CHEMBL_no_shared
 CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1,unique_smiles_B3DB_no_shared
@@ -3199,7 +3199,7 @@ O=c1[nH]nc(-c2ccnc(NC3CCOCC3)c2)n1-c1ccc2ccccc2c1,unique_smiles_CHEMBL_no_shared
 CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCC2(CCCO2)CC1N1CCCC1,unique_smiles_B3DB_no_shared
 COc1nc(Nc2cnn(C3CCn4ccnc43)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,unique_smiles_B3DB_no_shared
-Cl.O=C1Nc2ccc(-c3cccnc3)cc2C1=Cc1cc(Br)c(O)c(Br)c1,unique_smiles_CHEMBL_no_shared
+O=C1Nc2ccc(-c3cccnc3)cc2C1=Cc1cc(Br)c(O)c(Br)c1,unique_smiles_CHEMBL_no_shared
 CC(Nc1c(C#N)nnc2cc(-c3ccc(S(C)(=O)=O)cc3)ccc12)C1CC1,unique_smiles_CHEMBL_no_shared
 NCc1c(F)cccc1-c1ccc2nc(NC(=O)C3CC3F)cn2c1,unique_smiles_CHEMBL_no_shared
 CC1(C2CCOC2)CC1C(=O)Nc1cc2cc(N3CCN(C4(C)COCC4O)CC3)c(Cl)cc2cn1,unique_smiles_CHEMBL_no_shared
@@ -3267,7 +3267,7 @@ Fc1ccc(-c2ncn(C3CCNCC3)c2-c2ccnc(Oc3ccc(F)c(F)c3)n2)cc1,unique_smiles_CHEMBL_no_
 CC(O)C1C(=O)N2C(C(=O)O)=C(COC(N)=O)SC12,unique_smiles_B3DB_no_shared
 Nc1ncc(-c2cnn(CCO)c2)c2scc(-c3ccc(NC(=O)Nc4ccc(OC(F)F)cc4)cc3)c12,unique_smiles_CHEMBL_no_shared
 CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C,unique_smiles_B3DB_no_shared
-C(=Cc1ccccc1)C[N+]12CN3CN(CN(C3)C1)C2.[Cl-],unique_smiles_CHEMBL_no_shared
+C(=Cc1ccccc1)C[N+]12CN3CN(CN(C3)C1)C2,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)C(NS(=O)(=O)O)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 Clc1ccc(C(OCCN2CCOCC2)c2ccccc2)cc1,unique_smiles_B3DB_no_shared
 CCCCOC(=O)C(=O)C1C(C)CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
@@ -3530,7 +3530,7 @@ CC(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1,unique_smiles_B3DB_no_shared
 CC(=O)NC1CCC(C)(COc2ccnc(Nc3ccc(N4CC(C)OC(C)C4)cc3)n2)CC1,unique_smiles_CHEMBL_no_shared
 CCC(C)C(C)(COC(N)=O)COC(=O)NC(C)C,unique_smiles_B3DB_no_shared
 OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,unique_smiles_B3DB_no_shared
-O=C(O)C(F)(F)F.O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc(Cc5ccccc5)cc4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
+O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc(Cc5ccccc5)cc4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
 CN(C)C1C(=O)C(C(=O)NCN2CCCC2)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,unique_smiles_B3DB_no_shared
 COc1cccc(Nc2nc(NCCO)c3nc[nH]c3n2)c1,unique_smiles_CHEMBL_no_shared
 CCOC(=O)CNC(C(=O)N1CCC1C(=O)NCc1ccc(C(N)=NO)cc1)C1CCCCC1,unique_smiles_B3DB_no_shared
@@ -3563,7 +3563,7 @@ CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,unique_s
 CC1(Cn2ccnn2)C(C(=O)O)N2C(=O)CC2S1(=O)=O,unique_smiles_B3DB_no_shared
 NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)C(O)C1O,unique_smiles_B3DB_no_shared
 Cn1cc(-c2cc3c(-c4cc(N5CC[S+]([O-])CC5)ncn4)n[nH]c3cc2F)cn1,unique_smiles_CHEMBL_no_shared
-CN1CCC(C(=O)Nc2n[nH]c3nnc(-c4ccccc4)cc23)CC1.Cl,unique_smiles_CHEMBL_no_shared
+CN1CCC(C(=O)Nc2n[nH]c3nnc(-c4ccccc4)cc23)CC1,unique_smiles_CHEMBL_no_shared
 CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,unique_smiles_B3DB_no_shared
 CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CCl,unique_smiles_B3DB_no_shared
 CN(C)C(=O)COC1c2ccccc2CCc2ccccc21,unique_smiles_B3DB_no_shared
@@ -3585,7 +3585,7 @@ COc1cc(NS(C)(=O)=O)ccc1Nc1ncc2c(n1)N(C)c1ccccc1C(=O)N2C(C)C,unique_smiles_CHEMBL
 C#CCN(C)C(C)Cc1ccccc1,unique_smiles_B3DB_no_shared
 CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2cnn(C3CCC(n4nccn4)C3)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OC3CCNCC3)c21.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OC3CCNCC3)c21,unique_smiles_CHEMBL_no_shared
 CC1(C)OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC,unique_smiles_B3DB_no_shared
 Cc1nn(C(C)(C)C#N)cc1Nc1nc(C2CC2)c2c(C(F)(F)F)c[nH]c2n1,unique_smiles_CHEMBL_no_shared
@@ -3681,7 +3681,7 @@ CCC1(Oc2ccc3[nH]nc(-c4cc(N5CCN(S(C)(=O)=O)CC5)ncn4)c3c2)CC1,unique_smiles_CHEMBL
 Cc1cncc(-c2ccc3[nH]nc(-c4cc(N5CC(C)OC(C)C5)ncn4)c3c2)c1,unique_smiles_CHEMBL_no_shared
 NCC1CCC(N)C(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)O1,unique_smiles_B3DB_no_shared
 CCC(Oc1ccccc1)C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,unique_smiles_B3DB_no_shared
-COc1cccc(-n2ncc3c(NN=Cc4ccc(C(=O)NCCN(C)C)cc4)ncnc32)c1.Cl,unique_smiles_CHEMBL_no_shared
+COc1cccc(-n2ncc3c(NN=Cc4ccc(C(=O)NCCN(C)C)cc4)ncnc32)c1,unique_smiles_CHEMBL_no_shared
 CC(N)C(O)c1cccc(O)c1,unique_smiles_B3DB_no_shared
 CN1CCC2(O)c3ccccc3Oc3ccc(Cl)cc3C2C1,unique_smiles_B3DB_no_shared
 CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(Cl)C(F)CC2(C)C1C(=O)CO,unique_smiles_B3DB_no_shared
@@ -3734,14 +3734,14 @@ Cc1ccc(-c2cc[nH]n2)cc1-c1ccc2nc(NC(=O)C3CC3F)cn2c1,unique_smiles_CHEMBL_no_share
 CCn1cc(C(=O)O)c(=O)c2ccc(Cc3ccccc3)nc21,unique_smiles_B3DB_no_shared
 CCCC(=O)OC1(C(=O)CCl)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(=O)CC21C,unique_smiles_B3DB_no_shared
 Cn1cc(-c2ccc3[nH]nc(-c4cc(N5CCS(=O)(=O)CC5)ncn4)c3c2)cn1,unique_smiles_CHEMBL_no_shared
-Cl.Fc1cccc(COc2ccc(Nc3ncnc4cc(-c5ccc[nH]5)sc34)cc2Cl)c1,unique_smiles_CHEMBL_no_shared
+Fc1cccc(COc2ccc(Nc3ncnc4cc(-c5ccc[nH]5)sc34)cc2Cl)c1,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cc(C(C)(C)C#N)nn2C2CC2)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CC(=O)Oc1ccccc1C(=O)O,unique_smiles_B3DB_no_shared
 Cc1ccccc1OCC(O)CNCCOc1ccc(C(N)=O)cc1,unique_smiles_B3DB_no_shared
 NCc1ccc(S(N)(=O)=O)cc1,unique_smiles_B3DB_no_shared
 O=C1c2ccccc2S(=O)(=O)N1CCCCNC1CCc2ccccc2O1,unique_smiles_B3DB_no_shared
 CNC1(COc2nc(Nc3ccc(N4CCOCC4)cc3)ncc2Cl)CC1,unique_smiles_CHEMBL_no_shared
-CS(=O)(=O)CCNCc1coc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)cc4)c3c2)c1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1coc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)cc4)c3c2)c1,unique_smiles_CHEMBL_no_shared
 Cn1cc(-c2ccc3[nH]nc(-c4cc(N5CCC(F)(CO)CC5)ncn4)c3c2)cn1,unique_smiles_CHEMBL_no_shared
 CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,unique_smiles_B3DB_no_shared
 CCOC(=O)C1(C(=O)OCC)C(c2ccc(OC)cc2)C1S(=O)(=O)c1ccccc1,unique_smiles_B3DB_no_shared
@@ -3951,7 +3951,7 @@ Cc1cc(-c2n[nH]c3ccc(NC(=O)c4ncc(C#N)cc4C)cc23)on1,unique_smiles_CHEMBL_no_shared
 O=C(Nc1n[nH]c2ccc(-c3cn(Cc4ccccc4)nn3)cc12)c1cc(F)ccc1F,unique_smiles_CHEMBL_no_shared
 CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,unique_smiles_B3DB_no_shared
 NC(=O)OCC1C(NC(=O)C(=NOCC(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1nc(-c2ccc3ncnc(Nc4ccc(F)c(Cl)c4)c3c2)cs1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1nc(-c2ccc3ncnc(Nc4ccc(F)c(Cl)c4)c3c2)cs1,unique_smiles_CHEMBL_no_shared
 Cc1cc(C#N)cnc1C(=O)Nc1ccc2[nH]nc(-c3ccc(N4CCN(C)CC4)cc3)c2c1,unique_smiles_CHEMBL_no_shared
 CC(O)=C1C(=O)C(N)C2Cc3c(c(O)c4c(O)c(C)ccc4c3C)C(=O)C2(O)C1=O,unique_smiles_B3DB_no_shared
 CC(C)NCC(O)c1ccc(O)c(O)c1,unique_smiles_B3DB_no_shared
@@ -4065,7 +4065,7 @@ CCN(CC)C(=O)NC1CC2c3cccc4[nH]cc(c34)CC2N(C)C1,unique_smiles_B3DB_no_shared
 CN(C)C1C(O)=C(C(=O)NCO)C(=O)C2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,unique_smiles_B3DB_no_shared
 O=c1c(Br)ccc2n1CC1CNCC2C1,unique_smiles_B3DB_no_shared
 Cc1nc(N2CC3(C(C)(C)O)CC2C3)cc(-n2ncc3ccc(C4(C#N)CC45CC5)cc32)n1,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2cncc(C(=O)N3CCNCC3)c21.Cl,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2cncc(C(=O)N3CCNCC3)c21,unique_smiles_CHEMBL_no_shared
 NCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,unique_smiles_B3DB_no_shared
 CC1=C(C(=O)Nc2ccc3[nH]nc(-c4ccnc(N5CCOCC5)c4)c3c2)C(C)(C)n2nnnc2N1C,unique_smiles_CHEMBL_no_shared
 C=COCC(F)(F)F,unique_smiles_B3DB_no_shared
@@ -4235,7 +4235,7 @@ COc1nn(C2CC2)cc1Nc1ncc(F)c(OCC2CCC(O)CC2)n1,unique_smiles_CHEMBL_no_shared
 CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1ccco1,unique_smiles_B3DB_no_shared
 CC(=O)N1CCN(C(=O)Cc2cc(F)cc(F)c2)C(CN2CCC(O)C2)C1,unique_smiles_B3DB_no_shared
 COC(C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O)c1ccc(Cl)c(Cl)c1,unique_smiles_B3DB_no_shared
-CS(=O)(=O)O.O=C1Nc2ccc(-c3cccnc3)cc2C1=Cc1ccc[nH]1,unique_smiles_CHEMBL_no_shared
+O=C1Nc2ccc(-c3cccnc3)cc2C1=Cc1ccc[nH]1,unique_smiles_CHEMBL_no_shared
 COc1ccccc1CCCNC(=O)CCSc1ccccc1,unique_smiles_B3DB_no_shared
 C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,unique_smiles_B3DB_no_shared
@@ -4531,7 +4531,7 @@ CC(O)C1C(=O)N2C(C(=O)O)=C(SCCN=CN)CC12,unique_smiles_B3DB_no_shared
 CC(C)=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,unique_smiles_B3DB_no_shared
 COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,unique_smiles_B3DB_no_shared
 CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,unique_smiles_B3DB_no_shared
-CCN1CCC(CC(=O)Nc2n[nH]c3nnc(-c4cccc(F)c4F)cc23)CC1.O=C(O)C(O)C(O)C(=O)O,unique_smiles_CHEMBL_no_shared
+CCN1CCC(CC(=O)Nc2n[nH]c3nnc(-c4cccc(F)c4F)cc23)CC1,unique_smiles_CHEMBL_no_shared
 CCc1cc(-n2ncc3ccc(C4(C#N)CC45CC5)cc32)nc(C)n1,unique_smiles_CHEMBL_no_shared
 CNC1CCCC(COc2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)C1,unique_smiles_CHEMBL_no_shared
 Cn1cccc(Nc2n[nH]c3ccnc(OC4CCOCC4)c23)c1=O,unique_smiles_CHEMBL_no_shared
@@ -4662,7 +4662,7 @@ COC12CCC3(CC1C(C)(C)O)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,unique_smiles_B3DB_no_sh
 CNC1CCC(COc2nc(Nc3cnn(C(C)C)c3)ncc2Cl)CC1,unique_smiles_CHEMBL_no_shared
 OCC1OC(n2cnc3c2NC=NCC3O)CC1O,unique_smiles_B3DB_no_shared
 N#Cc1cccc(Nc2nccc(-c3cnn4ncccc34)n2)c1,unique_smiles_CHEMBL_no_shared
-COc1ccccc1Nc1ncc(-c2ccccc2)o1.Cl,unique_smiles_CHEMBL_no_shared
+COc1ccccc1Nc1ncc(-c2ccccc2)o1,unique_smiles_CHEMBL_no_shared
 CN1CCN2c3ccccc3Cc3ccccc3C2C1,unique_smiles_B3DB_no_shared
 CC(Cc1ccccc1)N(C)Cc1ccco1,unique_smiles_B3DB_no_shared
 CCC=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1csc(N)n1,unique_smiles_B3DB_no_shared
@@ -4701,7 +4701,7 @@ Cc1cncc2cccc(S(=O)(=O)N3CCCNCC3C)c12,unique_smiles_CHEMBL_no_shared
 CN(C)C1=NC(=O)C(c2ccccc2)O1,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2sc(C3(C)CCNC3=O)nc2C2CC2)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CS(=O)(=O)c1ccc(-c2ccc3cc(O)ccc3c2Oc2ccc(OCCN3CCCCC3)cc2)cc1,unique_smiles_B3DB_no_shared
-COc1cc2ncnc(Nc3ccc(C)c(O)c3)c2cc1OC.Cl,unique_smiles_CHEMBL_no_shared
+COc1cc2ncnc(Nc3ccc(C)c(O)c3)c2cc1OC,unique_smiles_CHEMBL_no_shared
 CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,unique_smiles_B3DB_no_shared
 COCc1ccccc1-c1ccc2c(NC(C)C3CC3)c(C(N)=O)nnc2c1,unique_smiles_CHEMBL_no_shared
 CC1=CCC2N(C)C3Cc4ccc(O)c5c4C2(C3)C1O5,unique_smiles_B3DB_no_shared
@@ -4830,7 +4830,7 @@ Clc1ccc2c(c1)C(=CC1CN3CCC1CC3)c1ccccc1S2,unique_smiles_B3DB_no_shared
 N#Cc1ccc2nc(N)n(-c3nccs3)c2c1,unique_smiles_CHEMBL_no_shared
 CC(C)C(CN1CCCC1)N(C)C(=O)Cc1ccc(Cl)c(Cl)c1,unique_smiles_B3DB_no_shared
 CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,unique_smiles_B3DB_no_shared
-CN(C)CCNC(=O)Nc1ccc(N(C)c2ccnc(Nc3ccc(CS(C)(=O)=O)cc3)n2)cc1.Cl,unique_smiles_CHEMBL_no_shared
+CN(C)CCNC(=O)Nc1ccc(N(C)c2ccnc(Nc3ccc(CS(C)(=O)=O)cc3)n2)cc1,unique_smiles_CHEMBL_no_shared
 C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,unique_smiles_CHEMBL_no_shared
 Cc1ccc(OCC2CN(c3ncnc4[nH]cc(-c5cnn(C)c5)c34)CCO2)cn1,unique_smiles_CHEMBL_no_shared
 CCSc1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2,unique_smiles_B3DB_no_shared
@@ -4953,7 +4953,7 @@ Cc1c(C(=O)Nc2ccc3[nH]nc(-c4ccoc4)c3c2)noc1C#N,unique_smiles_CHEMBL_no_shared
 CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1C(=O)CO,unique_smiles_B3DB_no_shared
 CC1(Oc2ccc3[nH]nc(-c4cc(N5CCN6CCC5CC6)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
 COc1ccc(OC)c(Sc2ccc3nnc(-c4cncs4)n3n2)c1,unique_smiles_CHEMBL_no_shared
-CN(C)CC(=O)N1CCC(c2ccc(NC(=O)c3nc(C#N)c[nH]3)c(C3=CCCCC3)c2)CC1.Cl,unique_smiles_CHEMBL_no_shared
+CN(C)CC(=O)N1CCC(c2ccc(NC(=O)c3nc(C#N)c[nH]3)c(C3=CCCCC3)c2)CC1,unique_smiles_CHEMBL_no_shared
 C#CC1(O)C=CC2C3CCC4=CC(=O)CCC4C3CCC21CC,unique_smiles_B3DB_no_shared
 Cc1cc2c(s1)=Nc1ccccc1NC=2N1CCN(C)CC1,unique_smiles_B3DB_no_shared
 CC1CC(c2nc3cnc4ccc(Cl)cc4c3n2C2CCOC(C)C2)CO1,unique_smiles_CHEMBL_no_shared
@@ -4993,7 +4993,7 @@ O=S(=O)(c1ccc(-c2ccc3[nH]nc(-c4cc(N5CCOCC5)ncn4)c3c2)cc1)N1CCCC1,unique_smiles_C
 CCC1(CC)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 COc1ccc(CCOC2CCCCC2N2CCC(O)C2)cc1OC,unique_smiles_B3DB_no_shared
 Nc1nnc2sc3ccccc3n12,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OCC3CCNCC3)c21.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OCC3CCNCC3)c21,unique_smiles_CHEMBL_no_shared
 C#CC1(O)CCC2C3CCC4CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,unique_smiles_B3DB_no_shared
 CCn1cc(Nc2ncc(F)c(OCC3CCC(O)CC3)n2)cn1,unique_smiles_CHEMBL_no_shared
 CC(Nc1c(C(N)=O)nnc2cc(-c3ccc(S(C)(=O)=O)cc3)ccc12)C1CC1,unique_smiles_CHEMBL_no_shared
@@ -5148,7 +5148,7 @@ CCNc1nc(Nc2cn(Cc3ccon3)nc2C2CC2)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 COC1CCC2C3Cc4ccc(O)c5c4C2(CCN3C)C1O5,unique_smiles_B3DB_no_shared
 CN1CCOC2(C1)CN(c1cc(-n3ncc4ccc(C5(C#N)CC56CC6)cc43)ncn1)C2,unique_smiles_CHEMBL_no_shared
 O=C(O)C1CN(Cc2ccc(OCc3cccc(C(F)(F)F)c3)cc2Cl)C1,unique_smiles_CHEMBL_no_shared
-CN1CCC(C(=O)Nc2n[nH]c3nc(-c4ccc(O)cc4)c(Br)cc23)CC1.O=C(O)C=CC(=O)O,unique_smiles_CHEMBL_no_shared
+CN1CCC(C(=O)Nc2n[nH]c3nc(-c4ccc(O)cc4)c(Br)cc23)CC1,unique_smiles_CHEMBL_no_shared
 CN1CCCC(CC2c3ccccc3Sc3ccccc32)C1,unique_smiles_B3DB_no_shared
 NCCc1ccn[nH]1,unique_smiles_B3DB_no_shared
 CCC(=O)OC1(C(=O)COC(C)=O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
@@ -5158,7 +5158,7 @@ CC1(Oc2ccc3[nH]nc(-c4cc(N5CC(O)(C(F)(F)F)C5)ncn4)c3c2)CC1,unique_smiles_CHEMBL_n
 CC(C)(C)C(=O)NCCCC(=O)O,unique_smiles_B3DB_no_shared
 CCOC(=O)OC1C(OC2C(C)C(OC3CC(C)(OC)C(O)C(C)O3)C(C)C(=O)OC(CC)C(C)(O)C(O)C(C)C(=O)C(C)CC2(C)O)OC(C)CC1N(C)C,unique_smiles_B3DB_no_shared
 CC(=O)OCC(=O)C1(OC(=O)C(C)C)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,unique_smiles_B3DB_no_shared
-Cc1c2ccc(N(C)c3ccnc(Nc4cccc(S(N)(=O)=O)c4)n3)cc2nn1C.Cl,unique_smiles_CHEMBL_no_shared
+Cc1c2ccc(N(C)c3ccnc(Nc4cccc(S(N)(=O)=O)c4)n3)cc2nn1C,unique_smiles_CHEMBL_no_shared
 CNC(=O)c1cccc(-c2cc(-c3n[nH]c4ccnc(OC5CCOCC5)c34)ccn2)c1,unique_smiles_CHEMBL_no_shared
 CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,unique_smiles_B3DB_no_shared
 CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,unique_smiles_B3DB_no_shared
@@ -5202,7 +5202,7 @@ COc1cc(C(=O)NCCCN2CCCc3ccccc32)cc(OC)c1OC,unique_smiles_B3DB_no_shared
 Cc1cc(=O)c(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)c[nH]1,unique_smiles_B3DB_no_shared
 Cc1nn(C2(C)CC2)cc1Nc1nc(C2CC2)c2nc[nH]c2n1,unique_smiles_CHEMBL_no_shared
 CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)nc(OCC(N)c3ccccc3)cc21,unique_smiles_CHEMBL_no_shared
-O=C(O)C(F)(F)F.O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc5c(ccn5Cc5cc(F)ccc5F)c4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
+O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc5c(ccn5Cc5cc(F)ccc5F)c4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
 Nc1ncc(C(=NOC2CCNC2=O)C(=O)NC2C(=O)N3C(C(=O)O)=C(CN4C=CCC=C4)CSC23)s1,unique_smiles_B3DB_no_shared
 CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,unique_smiles_B3DB_no_shared
 COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(NC(=O)C(N)CC(C)C)C(O)C(C)O1,unique_smiles_B3DB_no_shared
@@ -5368,7 +5368,7 @@ CC1OC2(CCCCC2Oc2cccc(Cl)c2)NC1=O,unique_smiles_B3DB_no_shared
 O=[N+]([O-])c1c(Cc2ccccc2)c[nH]c1NCCSCc1ccccn1,unique_smiles_B3DB_no_shared
 c1cc(-c2n[nH]c3ccnc(OC4CCOCC4)c23)nc(N2CCOCC2)c1,unique_smiles_CHEMBL_no_shared
 CCCC(=O)OC1(C(=O)COC(C)=O)CCC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,unique_smiles_B3DB_no_shared
-Cl.O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc5c(cnn5Cc5ccccc5)c4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
+O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc5c(cnn5Cc5ccccc5)c4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
 CC12CC3CC(C)(C1)CC(N)(C3)C2,unique_smiles_B3DB_no_shared
 Cn1c(=O)c2c(ncn2CCNCC(O)c2ccc(O)c(O)c2)n(C)c1=O,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
@@ -5522,7 +5522,7 @@ CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,unique_smiles_B3DB_no_shared
 CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,unique_smiles_B3DB_no_shared
 Cc1cc(Nc2nccc(C)n2)cc(-c2cnc(C3(O)CCC(C(=O)O)C(C)(C)C3)s2)c1,unique_smiles_CHEMBL_no_shared
 COc1ccc(C2C(S(=O)(=O)c3ccccc3)C2(CO)C(=O)O)cc1,unique_smiles_B3DB_no_shared
-COc1ccc(Nc2ncc(-c3ccccc3)o2)cc1OC.Cl,unique_smiles_CHEMBL_no_shared
+COc1ccc(Nc2ncc(-c3ccccc3)o2)cc1OC,unique_smiles_CHEMBL_no_shared
 CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)C3(O)CC,unique_smiles_B3DB_no_shared
 COc1nc(N2CCOCC2)cc(-n2ncc3cc(C)c(C4CCN(C5COC5)CC4(F)F)cc32)n1,unique_smiles_CHEMBL_no_shared
 NC1CCC(COc2nc(Nc3ccc(N4CCOCC4)cc3)ncc2F)CC1,unique_smiles_CHEMBL_no_shared
@@ -5542,7 +5542,7 @@ CCC(C)C1(CC)C(=O)NC(=O)NC1=O,unique_smiles_B3DB_no_shared
 COc1cc(C(=O)N2CCN(C3CCN(C)CC3)CC2)ccc1Nc1ncc2c(n1)N(C)c1ccccc1C(=O)N2C,unique_smiles_CHEMBL_no_shared
 Oc1ccc2c(c1)C13CCCCC1C(C2)N(CCc1ccccc1)CC3,unique_smiles_B3DB_no_shared
 O=C(C=Cc1ccc2c(c1)OCO2)N1CCCCC1,unique_smiles_B3DB_no_shared
-Cl.c1ccc(Cc2nc3ccc(Nc4ncnc5ccccc45)cc3[nH]2)cc1,unique_smiles_CHEMBL_no_shared
+c1ccc(Cc2nc3ccc(Nc4ncnc5ccccc45)cc3[nH]2)cc1,unique_smiles_CHEMBL_no_shared
 CC12CCC3c4ccc(O)cc4CCC3C1CC(F)C2O,unique_smiles_B3DB_no_shared
 OCCC1CCN(CCC=C2c3ccc(F)cc3Sc3ccc(C(F)(F)F)cc32)CC1,unique_smiles_B3DB_no_shared
 Cc1cc(-c2n[nH]c(C)c2-c2cc(F)c(N3CCC4(CCOCC4)C3)c(F)c2)ccn1,unique_smiles_CHEMBL_no_shared
@@ -5780,7 +5780,7 @@ CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C,unique_smiles_B3DB_no_shared
 C=CCN1C(=O)OC(C)C1=O,unique_smiles_B3DB_no_shared
 COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1O,unique_smiles_B3DB_no_shared
 COc1cc(Nc2[nH]nc3ccnc(OC4CCOCC4)c23)ccn1,unique_smiles_CHEMBL_no_shared
-Cl.Nc1nccc(-c2c(-c3ccc(F)cc3)ncn2C2CCNCC2)n1,unique_smiles_CHEMBL_no_shared
+Nc1nccc(-c2c(-c3ccc(F)cc3)ncn2C2CCNCC2)n1,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)CSc3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 CC(C)Oc1ccc2[nH]nc(-c3cc(N4CCc5oc(C6CC6)nc5C4)ncn3)c2c1,unique_smiles_CHEMBL_no_shared
 CC(C)Oc1ccc2[nH]nc(-c3cc(N4CCOC5(CC5)C4)ncn3)c2c1,unique_smiles_CHEMBL_no_shared
@@ -5889,7 +5889,7 @@ COc1ccc2c3c1OC1C(O)CCC4(O)C(C2)N(C)CCC314,unique_smiles_B3DB_no_shared
 CC1c2c(Nc3ncc(C(F)(F)F)c(NC4CC4)n3)cnn2CCN1C,unique_smiles_CHEMBL_no_shared
 CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(-c3cccc(-c4ccccc4F)c3)o2)c1,unique_smiles_CHEMBL_no_shared
 CC(Cc1ccccc1)NN,unique_smiles_B3DB_no_shared
-Cl.[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6ccccc6)c(Cl)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
+[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6ccccc6)c(Cl)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
 CC1(C)CC(=O)c2c(OC3CCCC3)sc(-c3cc[nH]n3)c2C1,unique_smiles_CHEMBL_no_shared
 CCOc1nc(Nc2ccc(C(=O)N3CCN4CCCC4C3)cc2OC)nc2[nH]ccc12,unique_smiles_CHEMBL_no_shared
 CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,unique_smiles_B3DB_no_shared
@@ -5919,7 +5919,7 @@ O=C1CCC(N2C(=O)C3C4CCC(C4)C3C2=O)C(=O)N1,unique_smiles_B3DB_no_shared
 CC(=O)C1=C(O)C2(O)C(=O)c3c(c(C)c4ccc(C)c(O)c4c3O)CC2C(N)C1=O,unique_smiles_B3DB_no_shared
 O=C(Nc1ccnnc1)c1cc(N2CCCCC2)ccc1OCc1ccccc1,unique_smiles_CHEMBL_no_shared
 N#Cc1ccnc(C(=O)Nc2ccc3[nH]nc(-c4ccncc4)c3c2)c1,unique_smiles_CHEMBL_no_shared
-Cl.O=S(=O)(CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1)c1ccccc1,unique_smiles_CHEMBL_no_shared
+O=S(=O)(CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1)c1ccccc1,unique_smiles_CHEMBL_no_shared
 CC(=O)OCC(=O)C1(O)C(OC(C)=O)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,unique_smiles_B3DB_no_shared
 CCCCN1CC(O)C(O)C(O)C1CO,unique_smiles_B3DB_no_shared
 CC(O)C1C(=O)N2C(C(=O)O)=C(SCCN=CN)CC12,unique_smiles_B3DB_no_shared
@@ -5936,7 +5936,7 @@ CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_
 COC1(NC(=O)CSC(F)F)C(=O)N2C(C(=O)O)=C(CSc3nnnn3CCO)COC21,unique_smiles_B3DB_no_shared
 O=C(O)c1ccccc1O,unique_smiles_B3DB_no_shared
 Cc1nnc(-c2ccccc2)c(C#N)n1,unique_smiles_CHEMBL_no_shared
-O=C(Nc1n[nH]c2nnc(-c3cccnc3)cc12)C1CC1.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+O=C(Nc1n[nH]c2nnc(-c3cccnc3)cc12)C1CC1,unique_smiles_CHEMBL_no_shared
 CC1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,unique_smiles_B3DB_no_shared
 CC(C)N1CCOC(c2cccc(C(F)(F)F)c2)C1,unique_smiles_B3DB_no_shared
 CCCCNc1ccc(C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)cc1,unique_smiles_B3DB_no_shared
@@ -6204,7 +6204,7 @@ Cc1nc(C2CCN(C(=O)c3ccc(OC(F)(F)F)cc3N)CC2)c2ncc(N3CCN(C)CC3)cc2n1,unique_smiles_
 c1nc(-c2n[nH]c3ccc(OC4CCOC4)cc23)cc(N2CCOCC2)n1,unique_smiles_CHEMBL_no_shared
 CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,unique_smiles_B3DB_no_shared
-CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OCC3CCCN3)c21.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)ncc(OCC3CCCN3)c21,unique_smiles_CHEMBL_no_shared
 C=C1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,unique_smiles_B3DB_no_shared
 COC1CC(OC2C(C)C(=O)OC(C)C(C)C(OC(C)=O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3OC(C)=O)C2C)OC(C)C1OC(C)=O,unique_smiles_B3DB_no_shared
 COC1CC(OC2C(C)C(=O)OC(C)C(C)C(OC(C)=O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3OC(C)=O)C2C)OC(C)C1OC(C)=O,unique_smiles_B3DB_no_shared
@@ -6368,13 +6368,13 @@ C[N]C(=Cc1ccc(O)cc1)C(=Cc1ccc(O)cc1)[N]C,unique_smiles_B3DB_no_shared
 CC(=O)C12OC(C)(C)OC1CC1C3CCC4=CC(=O)CCC4(C)C3CCC12C,unique_smiles_B3DB_no_shared
 Cc1cccc2c1Oc1ccccc1C1(O)CCNCC21,unique_smiles_B3DB_no_shared
 CCSCc1ccc2c(c1)c1c3c(c4c5cc(CSCC)ccc5n5c4c1n2C1CC(O)(C(=O)OC)C5(C)O1)CNC3=O,unique_smiles_B3DB_no_shared
-Cl.NC(=O)c1ccc(-c2nc(-c3ccccn3)c(-c3ccc4c(c3)OCO4)[nH]2)cc1,unique_smiles_CHEMBL_no_shared
+NC(=O)c1ccc(-c2nc(-c3ccccn3)c(-c3ccc4c(c3)OCO4)[nH]2)cc1,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)Cc3ccc(C4=NCCCN4)cc3)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,unique_smiles_B3DB_no_shared
 O=C1NC2CCCCN2C12CCN(CCCN1c3ccccc3CCc3ccc(Cl)cc31)CC2,unique_smiles_B3DB_no_shared
 CCCC(=O)OC1(C(C)=O)CCCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1,unique_smiles_B3DB_no_shared
-COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(Br)c4)cc3)ccc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(Br)c4)cc3)ccc2[nH]1,unique_smiles_CHEMBL_no_shared
 CC(C)CCOC(CN1CCCC1)c1ccccc1,unique_smiles_B3DB_no_shared
 NC(Cc1ccccc1)C(=O)ON1CCCC1C(=O)O,unique_smiles_B3DB_no_shared
 O=C(c1ccc(OCCC2CCOCC2)cc1)C1CCC(Cn2nnc3ccccc3c2=O)C1C(=O)O,unique_smiles_CHEMBL_no_shared
@@ -6402,7 +6402,7 @@ CC(=O)C1CCC2C3CC=C4CC(OC(=O)CCC(=O)O)CCC4(C)C3CCC12C,unique_smiles_B3DB_no_share
 COC1CC(OC2C(C)OC(OC3C(C)=CCC4CC(CC5(CCC(C)C(C(C)C)O5)O4)OC(=O)C4C=C(C)C(O)C5OCC(=CC=CC3C)C45O)CC2OC)OC(C)C1O,unique_smiles_B3DB_no_shared
 N#CCCNCCc1ccccc1,unique_smiles_B3DB_no_shared
 Cc1cc(C)cc(OCC2CNC(=O)O2)c1,unique_smiles_B3DB_no_shared
-COC(=O)Nc1nc2ccc(Oc3ccc(NC(=O)Nc4cccc(Cl)c4)cc3)cc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2ccc(Oc3ccc(NC(=O)Nc4cccc(Cl)c4)cc3)cc2[nH]1,unique_smiles_CHEMBL_no_shared
 COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 CC(NCCn1cnc2c1c(=O)n(C)c(=O)n2C)C(O)c1ccccc1,unique_smiles_B3DB_no_shared
 CCCn1c(=O)c2[nH]c(C3CCC(=O)C3)nc2n(CCC)c1=O,unique_smiles_B3DB_no_shared
@@ -6417,7 +6417,7 @@ Cn1cc(-c2ccc3cnn(-c4ccnc(N5CCC(O)CC5)c4)c3c2)cn1,unique_smiles_CHEMBL_no_shared
 C#CC1(O)CCC2C3CCc4cc(OC)ccc4C3CCC21C,unique_smiles_B3DB_no_shared
 COC1(NC(=O)C(C(=O)O)c2ccc(O)cc2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)COC21,unique_smiles_B3DB_no_shared
 CC1(C)OCc2c(Nc3n[nH]c4ccccc34)nc(-c3cn[nH]c3)nc21,unique_smiles_CHEMBL_no_shared
-CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O.CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
+CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 CC1(C)CC(=O)c2c(SCC3CC3)sc(-c3cc[nH]n3)c2C1,unique_smiles_CHEMBL_no_shared
 C=CC(=O)Nc1cc(-n2c(=O)ccc3cnc4ccc(-c5ccc(NS(C)(=O)=O)cc5)cc4c32)ccc1C,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cnn(C(C)(C)c3nncn3C)c2Cl)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
@@ -6791,7 +6791,7 @@ CC(CO)Nc1cc(-c2n[nH]c3ccc(OC4(C)CC4)cc23)ncn1,unique_smiles_CHEMBL_no_shared
 CCC(CC)(CC(=O)Nc1cccc(C=Cc2nc(C3CCC3)cs2)c1)C(=O)O,unique_smiles_B3DB_no_shared
 NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,unique_smiles_B3DB_no_shared
 CC(C)(CO)C(O)C(=O)NCCCO,unique_smiles_B3DB_no_shared
-CN1CCN(CCCNc2nc3ccc(Oc4ccc(NC(=O)Nc5cc(C(F)(F)F)ccc5F)cc4)cc3[nH]2)CC1.Cl,unique_smiles_CHEMBL_no_shared
+CN1CCN(CCCNc2nc3ccc(Oc4ccc(NC(=O)Nc5cc(C(F)(F)F)ccc5F)cc4)cc3[nH]2)CC1,unique_smiles_CHEMBL_no_shared
 O=C(OCc1ccccc1)N1CCC(CNc2ccncn2)CC1,unique_smiles_B3DB_no_shared
 NCC1CCC(N)C(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)O1,unique_smiles_B3DB_no_shared
 O=C1CN2C(=O)CCC2N1,unique_smiles_B3DB_no_shared
@@ -6853,7 +6853,7 @@ O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)O)=C(CSC3=NCNN3)CSC12,unique_smiles_B3DB_no_shared
 CCCSc1nc(NC2CC2c2ccc(F)c(F)c2)c2nnn(C3CC(OCCO)C(O)C3O)c2n1,unique_smiles_B3DB_no_shared
 O=C(O)C1CC(CP(=O)(O)O)CCN1,unique_smiles_B3DB_no_shared
 CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CC2(CC1C(=O)O)SCCS2,unique_smiles_B3DB_no_shared
-COc1ccc(-c2oc3ncnc(N)c3c2-c2ccc(NC(=O)Nc3cc(C(F)(F)F)ccc3F)cc2)cc1.Cl,unique_smiles_CHEMBL_no_shared
+COc1ccc(-c2oc3ncnc(N)c3c2-c2ccc(NC(=O)Nc3cc(C(F)(F)F)ccc3F)cc2)cc1,unique_smiles_CHEMBL_no_shared
 CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3cccc(NS(C)(=O)=O)c3)C2SC1,unique_smiles_B3DB_no_shared
 COc1c(C#N)cccc1C(=O)Nc1ccc2[nH]nc(-c3cnco3)c2c1,unique_smiles_CHEMBL_no_shared
 CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C=Cc3scnc3C)CSC12)c1csc(N)n1,unique_smiles_B3DB_no_shared
@@ -6961,7 +6961,7 @@ Cc1cc(-c2c(-c3ccncc3)n[nH]c2C)cc(C)c1N1CCC2(CCS(=O)(=O)CC2)C1,unique_smiles_CHEM
 Nc1nc(OC(C(F)(F)F)C(F)(F)F)ccc1[N+](=O)[O-],unique_smiles_B3DB_no_shared
 CC(C)Nc1c(C(N)=O)nnc2ccc(-c3ccncc3)cc12,unique_smiles_CHEMBL_no_shared
 Cc1cn(C2C=CC(CO)O2)c(=O)[nH]c1=O,unique_smiles_B3DB_no_shared
-Cl.NCc1ccc(-c2nc(-c3ccc(Cl)c(O)c3)c(-c3ccncc3)[nH]2)cc1,unique_smiles_CHEMBL_no_shared
+NCc1ccc(-c2nc(-c3ccc(Cl)c(O)c3)c(-c3ccncc3)[nH]2)cc1,unique_smiles_CHEMBL_no_shared
 O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1,unique_smiles_B3DB_no_shared
 COc1ccccc1OCC1CNC(=O)O1,unique_smiles_B3DB_no_shared
 C=CC(=O)Nc1cc(Nc2cc(-c3cccc(NC(=O)c4ccc(C(C)(C)C)cc4)c3C)cn(C)c2=O)ccc1C(=O)N1CCOCC1,unique_smiles_CHEMBL_no_shared
@@ -7037,7 +7037,7 @@ CC1(C)SC2C(NC(=O)C(C(=O)Oc3ccc4c(c3)CCC4)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_
 CC(C)CC1NC(=O)C(CCCN)NC(=O)C(C(C)C)NC(=O)C2CCCN2C(=O)C(Cc2ccccc2)NC(=O)C(CC(C)C)NC(=O)C(CCCN)NC(=O)C(C(C)C)NC(=O)C2CCCN2C(=O)C(Cc2ccccc2)NC1=O,unique_smiles_B3DB_no_shared
 COc1cc2oc(C)nc2cc1CNC1CCCNC1c1ccccc1,unique_smiles_B3DB_no_shared
 CCn1nc(Cl)c2cnc(Nc3cn(C4CCN(S(C)(=O)=O)CC4)nc3Cl)nc21,unique_smiles_CHEMBL_no_shared
-Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1.O,unique_smiles_CHEMBL_no_shared
+Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,unique_smiles_CHEMBL_no_shared
 OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,unique_smiles_B3DB_no_shared
 COc1ccc2c(c1)C(=Cc1cc3c([nH]1)CCN(C(=O)N1CCOCC1)C3)C(=O)N2C,unique_smiles_CHEMBL_no_shared
 O=C(NC(c1ccccn1)C1CC(O)C1)c1ncoc1C1CC1,unique_smiles_B3DB_no_shared
@@ -7064,7 +7064,7 @@ Cc1cccc(-c2noc(CNC(=O)CCSc3ccc(Cl)cc3)n2)c1,unique_smiles_B3DB_no_shared
 CCC1(O)CCC2C3CCC4=CCCCC4C3CCC21C,unique_smiles_B3DB_no_shared
 COc1cc(C2c3cc4c(cc3C(OC3OC5COC(c6cccs6)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,unique_smiles_B3DB_no_shared
 COc1ccc2c(c1)c(CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C)c(C)n2C(=O)c1ccc(Cl)cc1,unique_smiles_B3DB_no_shared
-CCNCNCCSCc1ncccc1Br.N#CN,unique_smiles_B3DB_no_shared
+CCNCNCCSCc1ncccc1Br,unique_smiles_B3DB_no_shared
 NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,unique_smiles_B3DB_no_shared
 NS(=O)(=O)c1cccc(-c2ccc(-c3c[nH]nc3-c3ccnc(N4CCOCC4)c3)cc2)c1,unique_smiles_CHEMBL_no_shared
 COCc1nc(C)cc(-n2ncc3ccc(C4(C#N)CC45CC5)cc32)n1,unique_smiles_CHEMBL_no_shared
@@ -7116,7 +7116,7 @@ O=C(CCCN1CCC2(CC1)C(=O)NCN2c1ccccc1)c1ccc(F)cc1,unique_smiles_B3DB_no_shared
 CCCCCCCCCCCCCC(=O)OC1C=CC2C3Cc4ccc(OCc5ccccc5)c5c4C2(CCN3C)C1O5,unique_smiles_B3DB_no_shared
 CC(C)=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,unique_smiles_B3DB_no_shared
 CC(C)(C)NCC(O)COc1cccc2c1CCCC2=O,unique_smiles_B3DB_no_shared
-NCN.Nc1nc(-c2ccccc2)cs1,unique_smiles_B3DB_no_shared
+Nc1nc(-c2ccccc2)cs1,unique_smiles_B3DB_no_shared
 CC12C=CC(=O)C=C1C(Cl)CC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,unique_smiles_B3DB_no_shared
 c1ccc2c(-c3ccncc3)n[nH]c2c1,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cnn(C3CCn4ccnc43)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
@@ -7148,7 +7148,7 @@ CNc1nc(Nc2cc(OC)c(C(=O)N3CC(C)OC(C)C3)cc2Cl)ncc1C(F)(F)F,unique_smiles_CHEMBL_no
 CON=C(C(=O)NC1C(=O)N(OCC(=O)OCC(=O)OC(C)(C)C)C1C)c1csc(N)n1,unique_smiles_B3DB_no_shared
 CCCCCCCCCC(=O)OC1(c2ccc(Br)cc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1,unique_smiles_B3DB_no_shared
 CCCCCC(O)C=CC1C(O)CC(=O)C1CCCCCCC(=O)O,unique_smiles_B3DB_no_shared
-Cc1nn(C)c2cc(N(C)c3ccnc(Nc4cccc(S(N)(=O)=O)c4)n3)ccc12.Cl,unique_smiles_CHEMBL_no_shared
+Cc1nn(C)c2cc(N(C)c3ccnc(Nc4cccc(S(N)(=O)=O)c4)n3)ccc12,unique_smiles_CHEMBL_no_shared
 O=C(O)C1CC1S(=O)(=O)c1ccc(Cl)cc1,unique_smiles_B3DB_no_shared
 CC1CN(c2cc(-c3n[nH]c4ccc(-c5cnc(N6CCCC6)s5)cc34)ncn2)CC(C)O1,unique_smiles_CHEMBL_no_shared
 CCOC1CCN(C(=O)c2cc(-c3ccccc3)c(=O)n3c2-c2cc(Cl)ccc2CC3)C1,unique_smiles_B3DB_no_shared
@@ -7208,7 +7208,7 @@ O=C(CCCN1CCC2(CC1)C(=O)NCN2c1ccc(F)cc1)c1ccc(F)cc1,unique_smiles_B3DB_no_shared
 CCN(CC)CCNC(=O)c1ccc(N)cc1,unique_smiles_B3DB_no_shared
 CCN1CCN(c2cc(-c3n[nH]c4ccc(OC5(C)CC5)cc34)ncn2)CC1,unique_smiles_CHEMBL_no_shared
 Cc1nc(C2(c3nc[nH]n3)CC2)sc1Nc1ncc(C(F)(F)F)c(C2CC2)n1,unique_smiles_CHEMBL_no_shared
-Cc1c(F)cccc1-c1ccc2nc(NC(=O)C3CC3F)cn2c1.Cl,unique_smiles_CHEMBL_no_shared
+Cc1c(F)cccc1-c1ccc2nc(NC(=O)C3CC3F)cn2c1,unique_smiles_CHEMBL_no_shared
 O=C(CN1CCC23CCCCC2C1Cc1ccc(O)cc13)c1ccccc1,unique_smiles_B3DB_no_shared
 Cc1cc(C#N)cnc1C(=O)Nc1ccc2[nH]nc(-c3ccoc3)c2n1,unique_smiles_CHEMBL_no_shared
 CCCCC(=O)OC1(C(=O)CO)CCC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
@@ -7674,12 +7674,13 @@ Oc1cccc(-c2nc(N3CCOCC3)c3oc4ncccc4c3n2)c1,unique_smiles_CHEMBL_no_shared
 N#Cc1cccc(-c2c[nH]c3ncnc(N4CCCC5(CNC(=O)C5)C4)c23)c1,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2cc(F)c(C(=O)N3CCC(OC)C3)cc2OC)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 OC1CCN(c2ccc(-c3ccccc3Cl)nn2)CC1,unique_smiles_B3DB_no_shared
+O=C([O-])c1ccc(Oc2nccc(-c3c(-c4ccc(F)cc4)ncn3C3CCNCC3)n2)cc1,unique_smiles_CHEMBL_no_shared
 CC(=O)C1(O)C(O)CC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,unique_smiles_B3DB_no_shared
 Cc1cc(C#N)cnc1C(=O)Nc1ccc2[nH]nc(-c3cc(C#N)cs3)c2c1,unique_smiles_CHEMBL_no_shared
 C=CC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 FC(F)CNC1CCC(COc2nc(Nc3ccc(N4CCOCC4)cc3)ncc2Cl)CC1,unique_smiles_CHEMBL_no_shared
 Nc1ccn(C2CSC(CO)O2)c(=O)n1,unique_smiles_B3DB_no_shared
-Cl.NS(=O)(=O)c1cccc(Nc2cc(-c3ccc(F)cc3)n[nH]2)c1,unique_smiles_CHEMBL_no_shared
+NS(=O)(=O)c1cccc(Nc2cc(-c3ccc(F)cc3)n[nH]2)c1,unique_smiles_CHEMBL_no_shared
 CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1,unique_smiles_B3DB_no_shared
 O=C(Cn1c(=O)ccc2cc(C(F)(F)F)ccc21)Nc1scc(Br)c1-c1ncn[nH]1,unique_smiles_CHEMBL_no_shared
 CC(=O)NC(CCC(N)=O)C(=O)O,unique_smiles_B3DB_no_shared
@@ -7711,7 +7712,7 @@ CCc1ccc2nccc(NC(=O)Nc3cccc(C(F)(F)F)n3)c2c1,unique_smiles_CHEMBL_no_shared
 N#CC1(c2ccc3cnn(-c4cc(N5CCC(CO)C5)ncn4)c3c2)CC2(CC2)C1,unique_smiles_CHEMBL_no_shared
 COc1cc(-c2n[nH]c3ccnc(OC4CCOCC4)c23)ccn1,unique_smiles_CHEMBL_no_shared
 CC1(C)CC(n2c(Cn3cncn3)nc3cnc4ccc(Cl)cc4c32)CCO1,unique_smiles_CHEMBL_no_shared
-CN(C)CCCNc1nccc(-c2c(-c3ccc(F)cc3)nn3cc(C(F)(F)F)ccc23)n1.CS(=O)(=O)O,unique_smiles_CHEMBL_no_shared
+CN(C)CCCNc1nccc(-c2c(-c3ccc(F)cc3)nn3cc(C(F)(F)F)ccc23)n1,unique_smiles_CHEMBL_no_shared
 CN(C)C(=O)c1ccc(N2CCCN(c3ccnc4sc(C(N)=O)c(N)c34)CC2)cc1,unique_smiles_CHEMBL_no_shared
 CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N(CC(=O)O)C1Cc2ccccc2C1,unique_smiles_B3DB_no_shared
 CCC1C(=O)NC(=O)C1(C)c1ccccc1,unique_smiles_B3DB_no_shared
@@ -7732,7 +7733,7 @@ NC(=O)c1ccc(Nc2nc(N3CCOCC3)c3ccccc3n2)cc1,unique_smiles_CHEMBL_no_shared
 COc1ccc(C2C(S(C)(=O)=O)C2(C#N)C(=O)O)cc1,unique_smiles_B3DB_no_shared
 COCCn1ncc(Nc2ncc(F)c(OCC3CCC(NC(C)=O)CC3)n2)c1Cl,unique_smiles_CHEMBL_no_shared
 CNC1C(OC2OC(CO)C(N)C(O)C2O)OC2CC(N)C(OC3C(N)CC(N)C(O)C3O)OC2C1O,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(C(F)(F)F)c4)c3c2)o1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(C(F)(F)F)c4)c3c2)o1,unique_smiles_CHEMBL_no_shared
 COc1ccc(C=NNc2ccc3ccccc3n2)cc1,unique_smiles_CHEMBL_no_shared
 CC(C)(O)CNc1ncc(-c2ccnc(Nc3ccnc(Cl)c3)n2)c(CC2CC2)n1,unique_smiles_CHEMBL_no_shared
 CC1N=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2NC1=O,unique_smiles_B3DB_no_shared
@@ -7773,7 +7774,7 @@ CN1CCN(CCCCN2C(=O)CN(N=Cc3ccc(-c4ccc(Cl)cc4)o3)C2=O)CC1,unique_smiles_B3DB_no_sh
 CCC(=O)N(c1ccccc1F)C1(c2ccccc2)CCN(CCn2nnn(CC)c2=O)CC1,unique_smiles_B3DB_no_shared
 O=C(O)c1ccccc1C(=O)OC1CCc2ccccc2C1,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cc(C(C)(C)n3nccn3)nn2C(C)C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
-CC(C)N1C(=O)C(NCCCN(C)C)=C(c2cn(C)c3ccccc23)C1=O.Cl,unique_smiles_CHEMBL_no_shared
+CC(C)N1C(=O)C(NCCCN(C)C)=C(c2cn(C)c3ccccc23)C1=O,unique_smiles_CHEMBL_no_shared
 Cc1ccc(=O)n(-c2ccccc2)c1,unique_smiles_B3DB_no_shared
 CCC1(O)CC(OC2CC(N(C)C)C(OC3CC4OC5CC(=O)C(C)OC5OC4C(C)O3)C(C)O2)c2c(O)c3c(c(O)c2C1OC1CC(N(C)C)C(O)C(C)O1)C(=O)c1cccc(O)c1C3=O,unique_smiles_B3DB_no_shared
 CC=Cc1n[nH]c2ccc(NC(=O)c3ncc(C#N)c(C)c3C)cc12,unique_smiles_CHEMBL_no_shared
@@ -7818,11 +7819,11 @@ CCCCCNC12C=CC(=O)C3Oc4c(O)ccc5c4C31CCN(C)C2C5,unique_smiles_B3DB_no_shared
 CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2ccc(C(=O)N3CCOCC3)cc2OC2CC2)ncc1Cl,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cc(C(C)(C)C#N)nn2C2CC2)ncc1Br,unique_smiles_CHEMBL_no_shared
-Cc1cc(O)cc(C)c1C=Cc1cncc(-c2nn[nH]n2)c1.Cl,unique_smiles_CHEMBL_no_shared
+Cc1cc(O)cc(C)c1C=Cc1cncc(-c2nn[nH]n2)c1,unique_smiles_CHEMBL_no_shared
 CN(C)Cc1ccc(-c2cccc(Nc3[nH]ccc3[N+](=O)[O-])c2)o1,unique_smiles_B3DB_no_shared
 CC1CCCN(c2ncnc3[nH]cc(-c4cccc(C(N)=O)c4)c23)C1,unique_smiles_CHEMBL_no_shared
 CC(C)Oc1ccc2[nH]nc(-c3cc(N4CCN(C)CC4)ncn3)c2c1,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2cncc(C(=O)N3CCC(N)C3)c21.Cl,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2cncc(C(=O)N3CCC(N)C3)c21,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cn(C3CCn4ccnc43)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 COc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2,unique_smiles_B3DB_no_shared
 CC(C)n1c(=O)c2c(-c3noc(C4CC4)n3)ncn2c2ccccc21,unique_smiles_B3DB_no_shared
@@ -7868,7 +7869,7 @@ COCCCCC(=NOCCN)c1ccc(Cl)cc1,unique_smiles_B3DB_no_shared
 CCC1(O)CC(OC2CC(N(C)C)C(OC3CC(O)C(OC4CCC(=O)C(C)O4)C(C)O3)C(C)O2)c2c(cc3c(c2O)C(=O)c2c(O)cccc2C3=O)C1C(=O)OC,unique_smiles_B3DB_no_shared
 Cc1oc(=O)oc1COC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,unique_smiles_B3DB_no_shared
 CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O,unique_smiles_B3DB_no_shared
-Cl.O=C(Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccccc4)nc3c2)cc1)Nc1cc(C(F)(F)F)ccc1F,unique_smiles_CHEMBL_no_shared
+O=C(Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccccc4)nc3c2)cc1)Nc1cc(C(F)(F)F)ccc1F,unique_smiles_CHEMBL_no_shared
 CC1(N2CCC(c3cc4cc(NC(=O)C5CC56CC6)ncc4cc3Cl)CC2)COCC1O,unique_smiles_CHEMBL_no_shared
 COc1cc(C2c3cc4c(cc3C(OC3OC5COC(c6cccs6)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1OC,unique_smiles_B3DB_no_shared
 N#Cc1c[nH]c2nccc(-c3ccccc3)c12,unique_smiles_CHEMBL_no_shared
@@ -7880,7 +7881,7 @@ Cc1nn(C(C)(C)C#N)cc1Nc1ncc(Cl)c(OCC2CC(C)OC(C)C2)n1,unique_smiles_CHEMBL_no_shar
 COC1C(OC(N)=O)C(O)C(Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2C)OC1(C)C,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)N3CCN(S(C)(=O)=O)C3=O)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 Cc1c(Nc2ncc(C(F)(F)F)c(C3CC3)n2)cnn1Cc1ccn(C)n1,unique_smiles_CHEMBL_no_shared
-CN(C)CCOc1ccc(-c2nc(-c3ccncc3)c(-c3ccc4c(c3)CCC4=NO)[nH]2)cc1.Cl.O,unique_smiles_CHEMBL_no_shared
+CN(C)CCOc1ccc(-c2nc(-c3ccncc3)c(-c3ccc4c(c3)CCC4=NO)[nH]2)cc1,unique_smiles_CHEMBL_no_shared
 Cc1[nH]nc(-c2ccncc2)c1-c1ccc(-c2cccc(S(N)(=O)=O)c2)c(C2CC2)c1,unique_smiles_CHEMBL_no_shared
 CCOC(=O)NNC(C)c1ccccc1,unique_smiles_B3DB_no_shared
 CN(C)C1C(O)=C(C(N)=O)C(=O)C2(O)C(O)=C3C(=O)c4c(ccc(N)c4O)CC3CC12,unique_smiles_B3DB_no_shared
@@ -7895,7 +7896,7 @@ O=C(O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,unique_smiles_B3DB_no_shared
 CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C,unique_smiles_B3DB_no_shared
 CNCC(O)c1cccc(OC(=O)C(C)(C)C)c1,unique_smiles_B3DB_no_shared
 N#Cc1cnc(C(=O)Nc2ccc3[nH]nc(-c4cnco4)c3c2)c(C2CC2)c1,unique_smiles_CHEMBL_no_shared
-CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(Cl)c4)c3c2)o1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(Cl)c4)c3c2)o1,unique_smiles_CHEMBL_no_shared
 CS(=O)(=O)N1CCC(n2cc(Nc3ncc4c(Cl)nn(C5CC5)c4n3)c(Cl)n2)CC1,unique_smiles_CHEMBL_no_shared
 CC(NNC(=O)c1ccccc1)c1ccccc1,unique_smiles_B3DB_no_shared
 CC12CCC3C(CCC4=CC(=O)C=CC43C)C1CCC(=O)O2,unique_smiles_B3DB_no_shared
@@ -8014,7 +8015,7 @@ C=CC[N+]1(C2CC3C4CCC5CC(O)C(N6CCOCC6)CC5(C)C4CCC3(C)C2OC(C)=O)CCCC1,unique_smile
 NCC(=O)O,unique_smiles_B3DB_no_shared
 Cc1c(Nc2nc(C3CC3)c3nc[nH]c3n2)cnn1C,unique_smiles_CHEMBL_no_shared
 CC1(Oc2cc3c(-c4cc(N5CCN(C(=O)CO)CC5)ncn4)n[nH]c3cc2F)CC1,unique_smiles_CHEMBL_no_shared
-COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4ccccc4)cc3)ccc2[nH]1.Cl,unique_smiles_CHEMBL_no_shared
+COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4ccccc4)cc3)ccc2[nH]1,unique_smiles_CHEMBL_no_shared
 O=C(CCN1CCC(O)(c2ccc(Br)cc2)CC1)c1ccc(F)cc1,unique_smiles_B3DB_no_shared
 C=C1c2c(Cl)ccc(O)c2C(=O)C2=C(O)C3(O)C(=O)C(C(N)=O)=C(O)C(N(C)C)C3C(O)C12,unique_smiles_B3DB_no_shared
 CN1CCC23c4c5ccc(O)c4OC2C(O)CCC3(O)C1C5,unique_smiles_B3DB_no_shared
@@ -8086,7 +8087,7 @@ CC12CCC3C4C=CC(=O)NC4CCC3C1CCC2C(=O)Nc1cc(C(F)(F)F)ccc1C(F)(F)F,unique_smiles_B3
 CC1(Oc2ccc3[nH]nc(-c4cc(N5CCN(CC6CCCO6)CC5)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
 Cc1c(C(=O)Nc2ccc3[nH]nc(C4CC4)c3c2)nc(C(F)(F)F)c(C#N)c1C,unique_smiles_CHEMBL_no_shared
 CNC1CCC(c2ccccc2)c2ccccc21,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1ccoc1-c1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1ccoc1-c1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,unique_smiles_CHEMBL_no_shared
 Cc1nn(C2(C)CCOC2=O)cc1Nc1ncc(C(F)(F)F)c(C2CC2)n1,unique_smiles_CHEMBL_no_shared
 Cc1nc(N2CCc3ccccc3CC2)c(C#N)c(=O)n1CC(F)(F)F,unique_smiles_B3DB_no_shared
 COc1cc2c(c(OC)c1OC)C(c1ccc3ncccc3c1)CC(=O)O2,unique_smiles_B3DB_no_shared
@@ -8113,7 +8114,7 @@ CC=C(CC)C(=O)NC(N)=O,unique_smiles_B3DB_no_shared
 Brc1cc(Br)c(NC2=NCCN2)c(Br)c1,unique_smiles_B3DB_no_shared
 COCc1nc(N2CCN(C3COC3)C(C)C2)cc(-n2ncc3ccc(C4(C#N)CC45CC5)cc32)n1,unique_smiles_CHEMBL_no_shared
 CCN(CC)C(C)=NN=Cc1c2c(O)c3c(O)c(C)c4c(c3c1O)C(=O)C(C)(OC=CC(OC)C(C)C(OC(C)=O)C(C)C(O)C(C)C(O)C(C)C=CC=C(C)C(=O)N2)O4,unique_smiles_B3DB_no_shared
-NCN.Nc1cccc(-c2csc(N)n2)c1,unique_smiles_B3DB_no_shared
+Nc1cccc(-c2csc(N)n2)c1,unique_smiles_B3DB_no_shared
 CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CS,unique_smiles_B3DB_no_shared
 CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O,unique_smiles_B3DB_no_shared
 C=C1CC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1(O)C(=O)CO,unique_smiles_B3DB_no_shared
@@ -8319,7 +8320,7 @@ CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,unique_smiles
 CCS(=O)(=O)C1C(C(N)=S)C1c1ccc(OC)cc1,unique_smiles_B3DB_no_shared
 NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)=NS2(=O)=O,unique_smiles_B3DB_no_shared
 FC(F)(F)c1cccc(N2CCN(CCc3nnc4n3CC3CCCC43)CC2)c1,unique_smiles_B3DB_no_shared
-CCC(C)C1OC2(CCC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2.COC1CC(OC2C(C)OC(OC3C(C)=CCC4CC(CC5(CCC(C)C(C(C)C)O5)O4)OC(=O)C4C=C(C)C(O)C5OCC(=CC=CC3C)C45O)CC2OC)OC(C)C1O,unique_smiles_B3DB_no_shared
+CCC(C)C1OC2(CCC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,unique_smiles_B3DB_no_shared
 CCCC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cn(C3CCn4ccnc43)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 NC(=O)c1nnc2cc(-c3cccc(N4CCOCC4)c3)ccc2c1N,unique_smiles_CHEMBL_no_shared
@@ -8366,7 +8367,7 @@ CCNc1nc(Nc2cnn(C3CC(n4cnc(C(F)(F)F)n4)C3)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_n
 CNc1nc(Nc2cc(OC)c(CC(=O)N3CCOCC3)cc2OC)ncc1Br,unique_smiles_CHEMBL_no_shared
 CC(C)n1cc(-c2n[nH]c3ccnc(OCCN4CCOC4=O)c23)cn1,unique_smiles_CHEMBL_no_shared
 CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
-CCN1CCC(CC(=O)Nc2n[nH]c3nc(-c4cccs4)c(Br)cc23)CC1.O=C(O)C(O)C(O)C(=O)O,unique_smiles_CHEMBL_no_shared
+CCN1CCC(CC(=O)Nc2n[nH]c3nc(-c4cccs4)c(Br)cc23)CC1,unique_smiles_CHEMBL_no_shared
 Cc1c(Nc2ncc(C(F)(F)F)c(C3CC3)n2)cnn1C1CC(c2ncnn2C)C1,unique_smiles_CHEMBL_no_shared
 CCCCCC1(CC)C(=O)NC(=O)NC1=O,unique_smiles_B3DB_no_shared
 CC1=C(C(=O)Nc2ccc3[nH]nc(C)c3c2)C(C)(C)n2nnnc2N1C,unique_smiles_CHEMBL_no_shared
@@ -8915,7 +8916,7 @@ CCc1nccn1CC(=O)N1CCCCC1CCn1cccn1,unique_smiles_B3DB_no_shared
 CC1(Oc2ccc3[nH]nc(-c4cc(N5CCC(N)C5)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
 CC1(Oc2cc3c(-c4cc(N5CCN(CCF)CC5)ncn4)n[nH]c3cc2F)CC1,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cn(C(C)(C)c3nncs3)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
-CCN1CCC(C(=O)Nc2n[nH]c3nnc(-c4cccc(F)c4F)cc23)CC1.Cl,unique_smiles_CHEMBL_no_shared
+CCN1CCC(C(=O)Nc2n[nH]c3nnc(-c4cccc(F)c4F)cc23)CC1,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2cn(C3CCC(n4ccnn4)C3)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CCCC1(c2cccc(O)c2)CCN(C)CC1C,unique_smiles_B3DB_no_shared
 c1cnc(N2CCCC2)c(-c2cnc3[nH]ccc3c2)n1,unique_smiles_CHEMBL_no_shared
@@ -8986,7 +8987,7 @@ CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,unique_smiles_B3DB_no_shared
 COc1ccc2c(c1)C(=Cc1cc(Br)c(O)c(Br)c1)C(=O)N2,unique_smiles_CHEMBL_no_shared
 NCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,unique_smiles_B3DB_no_shared
 COC1CN(c2cc(-n3ncc4ccc(-c5cnn(C)c5)cc43)ccn2)CC1O,unique_smiles_CHEMBL_no_shared
-CNCNCCSCc1nc[nH]c1C.N#CN,unique_smiles_B3DB_no_shared
+CNCNCCSCc1nc[nH]c1C,unique_smiles_B3DB_no_shared
 CC(NNC(=O)c1ccccc1)c1ccccc1,unique_smiles_B3DB_no_shared
 Cn1c(-c2cccc(F)c2F)c(C#N)c2c(N)ncnc21,unique_smiles_CHEMBL_no_shared
 CC12CC(N)C1CN(c1nc3c(cc1F)c(=O)c(C(=O)O)cn3C1CC1)C2,unique_smiles_B3DB_no_shared
@@ -9093,7 +9094,7 @@ CC1CCCN1c1c(C#N)c2c(N)nc(N)nc2n1C,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 COC1(NC(=O)CSCC(N)C(=O)O)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,unique_smiles_B3DB_no_shared
 NC(COc1cncc(-c2ccc3c(c2)C(=Cc2ccc[nH]2)C(=O)N3)c1)Cc1ccccc1,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)nc(OCCNC)cc21.Cl,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2c(C#CC(C)(C)O)nc(OCCNC)cc21,unique_smiles_CHEMBL_no_shared
 Clc1c[nH]c2ncc(-c3cncc(N4CCOCC4)n3)cc12,unique_smiles_CHEMBL_no_shared
 COc1ccc(C=C2C(=O)Nc3ccc(Cl)cc32)cc1,unique_smiles_CHEMBL_no_shared
 NC(N)=NN=Cc1c(Cl)cccc1Cl,unique_smiles_B3DB_no_shared
@@ -9107,7 +9108,7 @@ CCOC(=O)c1cc2cc(-c3cc(C(=O)NCc4ccc(C(=O)O)cc4)nn3C)ccc2[nH]1,unique_smiles_CHEMB
 CN1CCc2cc(Cl)c(Nc3nc(Nc4ccccc4S(=O)(=O)N(C)C)c4c(-c5cccnc5)c[nH]c4n3)cc2C1,unique_smiles_CHEMBL_no_shared
 CC1C(O)C(O)CN1c1cc(-c2n[nH]c3ccc(OC4(C)CC4)cc23)ncn1,unique_smiles_CHEMBL_no_shared
 CC1=CC(O)CC(=O)Cc2nc(co2)C(=O)N2CCC=C2C(=O)OC(C(C)C)C(C)C=CC(=O)NCC=C1,unique_smiles_B3DB_no_shared
-Cl.O=C(Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccco4)nc3c2)cc1)Nc1cc(C(F)(F)F)ccc1F,unique_smiles_CHEMBL_no_shared
+O=C(Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccco4)nc3c2)cc1)Nc1cc(C(F)(F)F)ccc1F,unique_smiles_CHEMBL_no_shared
 Cn1cc(-c2ccc3cnn(-c4ccnc(N5CCN(c6ccncn6)CC5)c4)c3c2)cn1,unique_smiles_CHEMBL_no_shared
 COCOc1cccc(OCOC)c1-c1ccc(NS(C)(=O)=O)cc1C(=O)OC,unique_smiles_CHEMBL_no_shared
 CC(C)(C)c1nc2c3ccc(F)cc3c3c(=O)[nH]ccc3c2[nH]1,unique_smiles_CHEMBL_no_shared
@@ -9518,7 +9519,7 @@ NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 C=CCN1C(=O)C(CC(C)C)NC1=S,unique_smiles_B3DB_no_shared
 CCC#CCC(C)C(O)C#CC1C(O)CC2CC(=CCOCC(=O)O)CC21,unique_smiles_B3DB_no_shared
-CCS(=O)(=O)c1ccc(OC)c(Nc2nccc(N(C)c3ccc4c(C)n[nH]c4c3)n2)c1.Cl,unique_smiles_CHEMBL_no_shared
+CCS(=O)(=O)c1ccc(OC)c(Nc2nccc(N(C)c3ccc4c(C)n[nH]c4c3)n2)c1,unique_smiles_CHEMBL_no_shared
 COC12CCC3(CC1C(C)(C)O)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 CCOC(=O)CC(O)CC(O)C=CC1=C(c2ccc(F)cc2)c2ccccc2OC12CCCC2,unique_smiles_B3DB_no_shared
@@ -9596,11 +9597,11 @@ Cc1c(Nc2ncc(C(F)(F)F)c(C3CC3)n2)cnn1CCF,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2cnn(C3CCc4c(C)noc43)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCC2(CCCO2)CC1N1CCCC1,unique_smiles_B3DB_no_shared
 NCC(=CF)CCc1ccc(F)cc1,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(Br)c4)c3c2)o1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)c(Br)c4)c3c2)o1,unique_smiles_CHEMBL_no_shared
 CCCC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 CCC1(O)CC(OC2CC(N3CCOCC3)C(O)C(C)O2)c2c(O)c3c(c(O)c2C1O)C(=O)c1cccc(O)c1C3=O,unique_smiles_B3DB_no_shared
 Nc1ccn(C2CCC(CO)O2)c(=O)n1,unique_smiles_B3DB_no_shared
-Cl.NC(=O)c1cccc(Nc2nccc(Nc3cccc(F)c3)n2)c1,unique_smiles_CHEMBL_no_shared
+NC(=O)c1cccc(Nc2nccc(Nc3cccc(F)c3)n2)c1,unique_smiles_CHEMBL_no_shared
 CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)CO)OC(CO)C(O)C1O,unique_smiles_B3DB_no_shared
 CC1(Oc2ccc3[nH]nc(-c4cc(N5CC6CC5CO6)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
 NCCCNCCSP(=O)(O)O,unique_smiles_B3DB_no_shared
@@ -9716,7 +9717,7 @@ CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1C(=O)COC(=O)C(C)(C)C,unique_smil
 Cc1n[nH]c2ccnc(NC3CCCCC3)c12,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2cn(C(C)(C)CO)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 O=C(O)c1ccc2nc(-c3cc(Cl)cc(Cl)c3)oc2c1,unique_smiles_B3DB_no_shared
-Cl.NS(=O)(=O)c1ccc(NN=C2C(=O)Nc3cccc(CCc4ccncc4)c32)cc1,unique_smiles_CHEMBL_no_shared
+NS(=O)(=O)c1ccc(NN=C2C(=O)Nc3cccc(CCc4ccncc4)c32)cc1,unique_smiles_CHEMBL_no_shared
 CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,unique_smiles_B3DB_no_shared
 COc1cc(C(=O)NC2CCNCC2)ccc1Nc1nc(Oc2cccc3c2C(=O)CC3)c2cc[nH]c2n1,unique_smiles_CHEMBL_no_shared
 CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1ccco1,unique_smiles_B3DB_no_shared
@@ -10202,7 +10203,7 @@ CCC(NC(=O)c1c(OCCNC(=O)Cc2ccccn2)c(-c2ccccc2)nc2ccccc12)c1ccccc1,unique_smiles_B
 CNc1nc(Nc2cn(C(C)(C)c3nc(C)cn3C)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CCN(CC)c1nc2c(s1)c1c(O)c3c(O)c(C)c4c(c32)C(=O)C(C)(OC=CC(OC)C(C)C(OC(C)=O)C(C)C(O)C(C)C(O)C(C)C=CC=C(C)C(=O)N1)O4,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2cc(OC)c(C(=O)NCCCN)cc2Cl)ncc1Cl,unique_smiles_CHEMBL_no_shared
-Cc1ccc(Nc2ccnc(Nc3cccc(C(N)=O)c3)n2)cc1O.Cl,unique_smiles_CHEMBL_no_shared
+Cc1ccc(Nc2ccnc(Nc3cccc(C(N)=O)c3)n2)cc1O,unique_smiles_CHEMBL_no_shared
 COc1ccc2c3c1OC1C(OC(=O)c4cccnc4)CCC4C(C2)N(C)CCC341,unique_smiles_B3DB_no_shared
 COc1cc(C=NNc2ncnc3[nH]ncc23)ccc1O,unique_smiles_CHEMBL_no_shared
 Cn1cc(-c2ccc3[nH]nc(-c4cc(N5CCN6C(=O)OCC6C5)ncn4)c3c2)cn1,unique_smiles_CHEMBL_no_shared
@@ -10269,7 +10270,7 @@ CC(Oc1cccc2ccccc12)C(N)=NO,unique_smiles_B3DB_no_shared
 CCN(CC)C(=O)C1CN2CCc3cc(OC)c(OC)cc3C2CC1OC(C)=O,unique_smiles_B3DB_no_shared
 O=C(OC1CNC(C#Cc2cc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3s2)C1)N1CCOCC1,unique_smiles_CHEMBL_no_shared
 CN(C(=O)Cc1ccccc1N)C(CN1CCC(O)C1)c1ccccc1,unique_smiles_B3DB_no_shared
-CN(c1ccc(NC(=O)NCCN2CCOCC2)cc1)c1ccnc(Nc2ccc(CS(C)(=O)=O)cc2)n1.Cl,unique_smiles_CHEMBL_no_shared
+CN(c1ccc(NC(=O)NCCN2CCOCC2)cc1)c1ccnc(Nc2ccc(CS(C)(=O)=O)cc2)n1,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)c3c[nH]c4cccnc4c3=O)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 COc1ccc(OC)c(Sc2ccc3nnc(C4CCOC4)n3n2)c1,unique_smiles_CHEMBL_no_shared
 CNc1nc(Nc2ccc(C(=O)O)cc2OC)ncc1Cl,unique_smiles_CHEMBL_no_shared
@@ -10578,7 +10579,7 @@ CN(C)CCOc1ccc(-c2nc(-c3ccncc3)c(-c3ccc4c(c3)CCC4=NO)[nH]2)cc1,unique_smiles_CHEM
 CN(C)C(=O)c1ccc(-c2cc(-c3n[nH]c4ccnc(OC5CCOCC5)c34)ccn2)cc1,unique_smiles_CHEMBL_no_shared
 COc1ccc(C(C)(C)C)cc1CNC1CCCNC1c1ccccc1,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)Cc3ccc(C4=NCCCN4)cc3)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
-C=CC(C)(O)C(C)(C)C.COC12CC3(C1)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,unique_smiles_B3DB_no_shared
+COC12CC3(C1)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,unique_smiles_B3DB_no_shared
 CNC1CCC(COc2nc(Nc3cc(F)c(C(=O)N4CCOCC4)cc3OC)ncc2OC)CC1,unique_smiles_CHEMBL_no_shared
 OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(N3C(=O)C(c4ccc(O)cc4)NC3(C)C)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
@@ -10702,7 +10703,7 @@ COc1cc2c3cc1Oc1cc(ccc1O)CC1c4c(cc(OC)c(O)c4Oc4ccc(cc4)CC3[N+](C)(C)CC2)CC[N+]1(C
 CC1(Oc2ccc3[nH]nc(-c4cc(N5CCC5)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
 CC1(C)SC2C(NC(=O)C(N=[N+]=[N-])c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 COc1cc2c(cc1Nc1nc(Nc3ccsc3C(N)=O)c3cc[nH]c3n1)N(C(=O)CN(C)C)CCC2,unique_smiles_CHEMBL_no_shared
-COc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1.Cl,unique_smiles_CHEMBL_no_shared
+COc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,unique_smiles_CHEMBL_no_shared
 CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,unique_smiles_B3DB_no_shared
 CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)COC(=O)CCC1CCCC1,unique_smiles_B3DB_no_shared
 CC1CC2C(C(O)CC3(C)C(C(=O)O)CCC23)C2(C)CCC(=O)C=C12,unique_smiles_B3DB_no_shared
@@ -10778,7 +10779,7 @@ Cc1cccc(Cl)c1Nc1nc2ccc(N3CCNC(C)C3)nc2n2cncc12,unique_smiles_B3DB_no_shared
 CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)COC(=O)CCC(=O)O,unique_smiles_B3DB_no_shared
 Cc1c(C#N)cnc(C(=O)Nc2ccc3[nH]nc(C=C4COC4)c3c2)c1C,unique_smiles_CHEMBL_no_shared
 CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,unique_smiles_B3DB_no_shared
-Cc1ccc2[nH]ccc2c1-c1ccc2nc(NC(=O)C3CC3F)cn2c1.Cl.Cl,unique_smiles_CHEMBL_no_shared
+Cc1ccc2[nH]ccc2c1-c1ccc2nc(NC(=O)C3CC3F)cn2c1,unique_smiles_CHEMBL_no_shared
 CC(Oc1c(Cl)cccc1Cl)C1=NCCN1,unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(N)C3=CCC=CC3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 O=[N+]([O-])OCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-],unique_smiles_B3DB_no_shared
@@ -11174,7 +11175,7 @@ CCOC(Cc1ccc(OCCc2ccc(OS(C)(=O)=O)cc2)cc1)C(=O)O,unique_smiles_B3DB_no_shared
 O=c1cccc2n1CC1CNC(Br)C2C1,unique_smiles_B3DB_no_shared
 COc1cc(C(=O)C=CN2CC=CC2)cc(OC)c1OC,unique_smiles_B3DB_no_shared
 CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C,unique_smiles_B3DB_no_shared
-Cl.[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6ccccc6)c(F)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
+[O-][S+]1CCN(Cc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6ccccc6)c(F)c5)c4c3)o2)CC1,unique_smiles_CHEMBL_no_shared
 CC(Cc1ccccc1)NCCC1c2ccccc2Sc2ccccc21,unique_smiles_B3DB_no_shared
 Cc1csc2nc(N)nn12,unique_smiles_CHEMBL_no_shared
 CCC1NC(=O)C(NC(=O)c2ncccc2O)C(C)OC(=O)C(c2ccccc2)NC(=O)C2CC(=O)CCN2C(=O)C(Cc2ccc(N(C)C)cc2)N(C)C(=O)C2CCCN2C1=O,unique_smiles_B3DB_no_shared
@@ -11240,7 +11241,7 @@ CNc1nc(Nc2ccc(C(=O)N3CC4CCC(C3)O4)cc2OC)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_sha
 O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1CC(F)(F)F,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cnn(C3CC(N4CCC(F)C4)C3)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 COc1ccc(N2CC(CN3CCC(O)(c4ccc5c(c4)OCO5)CC3)OC2=O)cc1,unique_smiles_B3DB_no_shared
-CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)cc4)c3c2)o1.Cl,unique_smiles_CHEMBL_no_shared
+CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5ccccc5)cc4)c3c2)o1,unique_smiles_CHEMBL_no_shared
 CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)c(Cl)c1,unique_smiles_B3DB_no_shared
 Cc1c(Nc2nc(C3CC3)c3nc[nH]c3n2)cnn1C(CF)CF,unique_smiles_CHEMBL_no_shared
 C=CCN1CC2COc3ccc(F)c(c3)-c3cnn4ccc(nc34)NCCN2CC1(C)C,unique_smiles_CHEMBL_no_shared
@@ -11290,7 +11291,7 @@ C#CCNC1CCc2ccccc21,unique_smiles_B3DB_no_shared
 CS(=O)(=O)c1ccc(C(O)C(CF)NC(=O)C(Cl)Cl)cc1,unique_smiles_B3DB_no_shared
 C1=Cc2cccc(OCC3CNCCO3)c2C1,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cn(C(C)(C)c3ccnn3C)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
-N#Cc1c(NC(=O)CN2CCOCC2)sc2c1CCCC2.O=C(O)C(=O)O,unique_smiles_CHEMBL_no_shared
+N#Cc1c(NC(=O)CN2CCOCC2)sc2c1CCCC2,unique_smiles_CHEMBL_no_shared
 Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2cnn(C(C)(C#N)CF)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CCNc1nc(Nc2sc(C(=O)N3CCOCC3)nc2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
@@ -11425,7 +11426,7 @@ CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21,unique_smiles_B3DB_no_shar
 CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,unique_smiles_B3DB_no_shared
 Fc1cccc(CNc2ncnc3[nH]cnc23)c1,unique_smiles_CHEMBL_no_shared
 COc1ccc2c(-c3ccnc(Nc4cccc(OC(F)(F)F)c4)n3)cnn2n1,unique_smiles_CHEMBL_no_shared
-ClCC1CO1.NCCNCCNCCNCCN,unique_smiles_B3DB_no_shared
+NCCNCCNCCNCCN,unique_smiles_B3DB_no_shared
 CN(C)CCn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3csc(N)n3)C2SC1,unique_smiles_B3DB_no_shared
 CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C=O)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,unique_smiles_B3DB_no_shared
 CCCCC(NC(C)=O)C(=O)NC1CC(=O)NCCCCC(C(=O)O)NC(=O)C(CC2=CNC3C=CC=CC23)NC(=O)C(CCCN=C(N)N)NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2c[nH]cn2)NC1=O,unique_smiles_B3DB_no_shared
@@ -11572,7 +11573,7 @@ CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,unique_smiles_B3DB_
 Nc1nccc(-c2c(-c3ccc(F)cc3)nn3cc(C(F)(F)F)ccc23)n1,unique_smiles_CHEMBL_no_shared
 COc1ccccc1-c1c[nH]c2ncnc(N3CCC(F)C3)c12,unique_smiles_CHEMBL_no_shared
 CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(Cl)C(Cl)CC3(C)C2(C(=O)CCl)O1,unique_smiles_B3DB_no_shared
-Cl.N#Cc1cccc(Nc2ncc(-c3ccccc3)o2)c1,unique_smiles_CHEMBL_no_shared
+N#Cc1cccc(Nc2ncc(-c3ccccc3)o2)c1,unique_smiles_CHEMBL_no_shared
 CCn1cc(Cl)c2cnc(Nc3cn(C4CCN(C(=O)N5CCN(C)CC5)CC4)nc3Cl)nc21,unique_smiles_CHEMBL_no_shared
 O=C(Cc1csc(-n2cccc2)n1)N1CCCCC1c1cccnc1,unique_smiles_B3DB_no_shared
 CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(OC(=O)c1ccco1)C(=O)CCl,unique_smiles_B3DB_no_shared
@@ -11628,7 +11629,7 @@ CCC12CCN(CC3(O)CC3)C(Cc3ccc(O)cc31)C2(C)C,unique_smiles_B3DB_no_shared
 NCC1(CO)C(c2ccccc2)C1S(=O)(=O)c1ccc(Cl)cc1,unique_smiles_B3DB_no_shared
 CNc1nc(Nc2cnn(CC34CC(C#N)(C3)C4)c2C)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 COc1ccc(C=NNc2ncccc2Cl)cc1OC,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2c(C#CCN)ncc(OCCCN)c21.O=C(O)C(F)(F)F,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2c(C#CCN)ncc(OCCCN)c21,unique_smiles_CHEMBL_no_shared
 CC(=O)OCC(=O)C1(O)C(C)CC2C3C=C(C)C4=Cc5c(cnn5-c5ccccc5)CC4(C)C3C(O)CC21C,unique_smiles_B3DB_no_shared
 CCC(=O)c1ccc2c(c1)N(CC(C)N(C)C)c1ccccc1S2,unique_smiles_B3DB_no_shared
 Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,unique_smiles_B3DB_no_shared
@@ -11665,7 +11666,7 @@ CC1(C)SC2C(N3C(=O)C(c4ccc(O)cc4)NC3(C)C)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_sh
 COC12C(COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1CC1NC12,unique_smiles_B3DB_no_shared
 CCn1nnn(CCN2CCC(N(C(=O)COC)c3ccccc3F)C(C)C2)c1=O,unique_smiles_B3DB_no_shared
 Clc1cc(Nc2nc(NC3CC3)c3sccc3n2)ccc1N1CCOCC1,unique_smiles_CHEMBL_no_shared
-CCn1c(-c2nonc2N)nc2cnc(Oc3cccc(NC(=O)c4ccc(OCCN5CCOCC5)cc4)c3)cc21.Cl,unique_smiles_CHEMBL_no_shared
+CCn1c(-c2nonc2N)nc2cnc(Oc3cccc(NC(=O)c4ccc(OCCN5CCOCC5)cc4)c3)cc21,unique_smiles_CHEMBL_no_shared
 CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21,unique_smiles_B3DB_no_shared
 Cc1cc(-c2n[nH]cc2-c2ccc(-c3cccc(S(N)(=O)=O)c3)cc2)ccn1,unique_smiles_CHEMBL_no_shared
 Cc1cccc(-c2cc(Nc3ccn(C)n3)nc3[nH]cc(C#N)c23)c1,unique_smiles_CHEMBL_no_shared
@@ -11677,7 +11678,7 @@ FC1(F)CCN(c2cc(-c3n[nH]c4ccc(-c5cn[nH]c5)cc34)ncn2)CC1,unique_smiles_CHEMBL_no_s
 CC(=O)C1CCC2C3CC(O)C45CC4CCC5(C)C3CCC12C,unique_smiles_B3DB_no_shared
 CCNc1nc(Nc2cc(C3(C)CCn4ncnc43)nn2C2CC2)ncc1C(F)(F)F,unique_smiles_CHEMBL_no_shared
 CCCN1CCN(c2cc(-c3n[nH]c4ccc(OC(C)C)cc34)ncn2)CC1=O,unique_smiles_CHEMBL_no_shared
-O=C(O)C=CC(=O)O.OCCCNc1nccc(-c2c(-c3ccc(F)cc3)nn3cc(C(F)(F)F)ccc23)n1,unique_smiles_CHEMBL_no_shared
+OCCCNc1nccc(-c2c(-c3ccc(F)cc3)nn3cc(C(F)(F)F)ccc23)n1,unique_smiles_CHEMBL_no_shared
 CC(CN1C(=O)c2cccnc2Nc2ccccc21)N(C)C,unique_smiles_B3DB_no_shared
 CCOC1c2ccccc2C(=O)N(C)c2ccccc21,unique_smiles_B3DB_no_shared
 C=CCN1CCC23CCCCC2C1Cc1ccc(O)cc13,unique_smiles_B3DB_no_shared
@@ -11689,7 +11690,7 @@ CNC1CC(c2ccc(Cl)c(Cl)c2)c2ccccc21,unique_smiles_B3DB_no_shared
 O=C(O)c1cc(=O)c2ccccc2o1,unique_smiles_B3DB_no_shared
 FC(Br)CC(F)(F)F,unique_smiles_B3DB_no_shared
 CC1CN2CCNc3ccn4ncc(c4n3)-c3cc(ccc3F)OCC2CN1C,unique_smiles_CHEMBL_no_shared
-Cc1ccc(O)cc1Nc1ccnc2cc(-c3ccccn3)ccc12.Cl,unique_smiles_CHEMBL_no_shared
+Cc1ccc(O)cc1Nc1ccnc2cc(-c3ccccn3)ccc12,unique_smiles_CHEMBL_no_shared
 CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,unique_smiles_B3DB_no_shared
 CC=CC(=O)N(CC)C(CC)C(=O)N(C)C,unique_smiles_B3DB_no_shared
 CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(Cl)C(Cl)CC3(C)C2(C(=O)CO)O1,unique_smiles_B3DB_no_shared
