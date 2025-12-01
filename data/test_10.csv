@@ -69,7 +69,6 @@ CC(=O)N1CCN(C(=O)Cc2ccccc2)C(CN2CCC(O)C2)C1,unique_smiles_B3DB_no_shared
 COC(=O)C(C)Sc1ccc2ncc(-c3cccs3)n2n1,unique_smiles_CHEMBL_no_shared
 COCC1(CN)C(c2ccc(OC)cc2)C1S(=O)(=O)c1ccc(Cl)cc1,unique_smiles_B3DB_no_shared
 CCC1(Oc2ccc3[nH]nc(-c4cc(N5CCC(N)C5)ncn4)c3c2)CC1,unique_smiles_CHEMBL_no_shared
-[Kr],unique_smiles_B3DB_no_shared
 CC1(C)SC2C(NC(=O)C(NC(=O)N3CCN(S(C)(=O)=O)C3=O)c3ccccc3)C(=O)N2C1C(=O)O,unique_smiles_B3DB_no_shared
 COc1cccc(-n2cnc3c(NN=Cc4ccncc4)ncnc32)c1,unique_smiles_CHEMBL_no_shared
 CC(=O)NC1CCC(COc2nc(Nc3ccc(N4CCOCC4)cc3)ncc2C2CC2)CC1,unique_smiles_CHEMBL_no_shared
@@ -1280,7 +1279,6 @@ COc1ccc(COc2ccc(Br)cc2C(=O)Nc2cccnc2)cc1,unique_smiles_CHEMBL_no_shared
 CN1CCN2c3cc(F)ccc3C(c3cccs3)=NCC2C1,unique_smiles_B3DB_no_shared
 CCc1ccc(-c2ccc(C(=O)N(C)C3CCN(C(=O)N4CCC(N5CCCCC5)C4)C3)cc2)cc1,unique_smiles_B3DB_no_shared
 CC1NC(=O)COC1c1ccccc1,unique_smiles_B3DB_no_shared
-[Xe],unique_smiles_B3DB_no_shared
 CC(C)C(O)C1CCCCC1,unique_smiles_B3DB_no_shared
 O=C(CN1CCC23CCCCC2C1Cc1ccc(O)cc13)c1ccccc1,unique_smiles_B3DB_no_shared
 Cc1c(Nc2ncc3cc(Cl)c(C4CCN(C5COCC5O)CC4)cc3n2)cnn1C1CC1(F)F,unique_smiles_CHEMBL_no_shared
