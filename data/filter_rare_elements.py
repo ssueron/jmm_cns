@@ -3,10 +3,11 @@
 Filter SMILES containing rare/unsupported elements (Li, Ne, Ar, etc.)
 while preserving SMILES with [nH], [N+], [O-] which are supported by the S4 vocabulary.
 
-The S4 model vocabulary (37 tokens) supports:
-- Atoms: C, N, O, S, F, H, P, I, Br, Cl (+ aromatic variants)
+The S4 model vocabulary (37 tokens) supports ONLY these 10 elements:
+- Atoms: C, N, O, S, F, H, P, I, Br, Cl (+ aromatic variants: c, n, o, s)
 - Bracket expressions like [nH], [N+], [O-] work because they decompose into supported tokens
   Example: [nH] = '[', 'n', 'H', ']' (all in vocabulary)
+- NOTE: B (Boron) is NOT supported despite being common in some drug molecules
 
 This script ONLY removes SMILES with elements NOT in the supported list.
 """
@@ -22,8 +23,9 @@ RDLogger.DisableLog('rdApp.*')
 
 
 # Elements supported by S4 vocabulary (can appear as individual tokens)
+# Based on chembl_pretrained/init_arguments.json - only these 10 elements are in the vocabulary
 SUPPORTED_ELEMENTS = {
-    'C', 'N', 'O', 'S', 'F', 'H', 'P', 'I', 'Br', 'Cl', 'B'
+    'C', 'N', 'O', 'S', 'F', 'H', 'P', 'I', 'Br', 'Cl'
 }
 
 

@@ -26,7 +26,8 @@ S4_VOCABULARY = {
 }
 
 # Supported elements (atoms that can appear in molecules)
-SUPPORTED_ELEMENTS = {'C', 'N', 'O', 'S', 'F', 'H', 'P', 'I', 'Br', 'Cl', 'B'}
+# Based on chembl_pretrained/init_arguments.json - only these 10 elements
+SUPPORTED_ELEMENTS = {'C', 'N', 'O', 'S', 'F', 'H', 'P', 'I', 'Br', 'Cl'}
 
 
 def get_elements_in_smiles(smiles: str) -> set:
